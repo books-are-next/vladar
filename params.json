@@ -1,11 +1,372 @@
 {
+  "params": {
+    "metadata": {
+      "title": "Vladař",
+      "identifier": "f841d144-0c6b-4334-bc59-90adccf274a6",
+      "author": "Niccolò Machiavelli",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-11-07T16:04:51.351Z",
+      "languageCode": "cs"
+    },
+    "elements": {
+      "title": "mlpuroven1cast\nmlpuroven1zvlastnipripady",
+      "subtitle": "",
+      "h2": "",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "mlpdopis12-12svazany",
+      "brAfter": "mlpdopis12-12svazany",
+      "blockquote": "",
+      "figure": "",
+      "em": "mlpvenovani\nmlptitulkaprekladatel\nmlpznakkurziva11b",
+      "strong": "mlpznaktucne\nmlptirazautoranazev",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "vladar_001.md",
+            "xhtml": "vladar_001.html",
+            "id": 0,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_002.md",
+            "xhtml": "vladar_002.html",
+            "id": 1,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_003.md",
+            "xhtml": "vladar_003.html",
+            "id": 2,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_004.md",
+            "xhtml": "vladar_004.html",
+            "id": 3,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_005.md",
+            "xhtml": "vladar_005.html",
+            "id": 4,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_006.md",
+            "xhtml": "vladar_006.html",
+            "id": 5,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_007.md",
+            "xhtml": "vladar_007.html",
+            "id": 6,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_008.md",
+            "xhtml": "vladar_008.html",
+            "id": 7,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_009.md",
+            "xhtml": "vladar_009.html",
+            "id": 8,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_010.md",
+            "xhtml": "vladar_010.html",
+            "id": 9,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_011.md",
+            "xhtml": "vladar_011.html",
+            "id": 10,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_012.md",
+            "xhtml": "vladar_012.html",
+            "id": 11,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_013.md",
+            "xhtml": "vladar_013.html",
+            "id": 12,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_014.md",
+            "xhtml": "vladar_014.html",
+            "id": 13,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_015.md",
+            "xhtml": "vladar_015.html",
+            "id": 14,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_016.md",
+            "xhtml": "vladar_016.html",
+            "id": 15,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_017.md",
+            "xhtml": "vladar_017.html",
+            "id": 16,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_018.md",
+            "xhtml": "vladar_018.html",
+            "id": 17,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_019.md",
+            "xhtml": "vladar_019.html",
+            "id": 18,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_020.md",
+            "xhtml": "vladar_020.html",
+            "id": 19,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_021.md",
+            "xhtml": "vladar_021.html",
+            "id": 20,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_022.md",
+            "xhtml": "vladar_022.html",
+            "id": 21,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_023.md",
+            "xhtml": "vladar_023.html",
+            "id": 22,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_024.md",
+            "xhtml": "vladar_024.html",
+            "id": 23,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_025.md",
+            "xhtml": "vladar_025.html",
+            "id": 24,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_026.md",
+            "xhtml": "vladar_026.html",
+            "id": 25,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_027.md",
+            "xhtml": "vladar_027.html",
+            "id": 26,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_028.md",
+            "xhtml": "vladar_028.html",
+            "id": 27,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_029.md",
+            "xhtml": "vladar_029.html",
+            "id": 28,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_030.md",
+            "xhtml": "vladar_030.html",
+            "id": 29,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_031.md",
+            "xhtml": "vladar_031.html",
+            "id": 30,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_032.md",
+            "xhtml": "vladar_032.html",
+            "id": 31,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_033.md",
+            "xhtml": "vladar_033.html",
+            "id": 32,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_034.md",
+            "xhtml": "vladar_034.html",
+            "id": 33,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_035.md",
+            "xhtml": "vladar_035.html",
+            "id": 34,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_036.md",
+            "xhtml": "vladar_036.html",
+            "id": 35,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
   "epub": {
     "metadata": {
       "title": "Vladař",
       "identifier": "f841d144-0c6b-4334-bc59-90adccf274a6",
       "author": "Niccolò Machiavelli",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-11-07T16:04:51.351Z"
+      "modified": "2021-11-07T16:18:41.865Z"
     },
     "chapters": [
       {
@@ -33,13 +394,13 @@
         "xhtml": "vladar_004.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Machiavelliův list o\nvzniku „Vladaře“ Francescovi Vettorimu[1], florentskému\nvyslanci v Římě",
         "subtitleSuggest": "",
         "filename": "vladar_005.md",
         "xhtml": "vladar_005.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VLADAŘ",
         "subtitleSuggest": "",
         "filename": "vladar_006.md",
         "xhtml": "vladar_006.html"
@@ -57,163 +418,163 @@
         "xhtml": "vladar_008.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "PRVNÍ KAPITOLA\nKolik je druhů vlád a jak je jich nabýváno",
         "subtitleSuggest": "",
         "filename": "vladar_009.md",
         "xhtml": "vladar_009.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DRUHÁ\nKAPITOLA\nO vladařstvích dědičných",
         "subtitleSuggest": "",
         "filename": "vladar_010.md",
         "xhtml": "vladar_010.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "TŘETÍ\nKAPITOLA\nO vladařstvích smíšených",
         "subtitleSuggest": "",
         "filename": "vladar_011.md",
         "xhtml": "vladar_011.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "ČTVRTÁ KAPITOLA\nProč se Dariova říše, dobytá Alexandrem, nevzbouřila po Alexandrově smrti proti\njeho nástupcům",
         "subtitleSuggest": "",
         "filename": "vladar_012.md",
         "xhtml": "vladar_012.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "PÁTÁ KAPITOLA\nJak je třeba vládnouti obcím a státům, které předtím, než jich bylo dobyto,\nžily podle vlastních zákonů",
         "subtitleSuggest": "",
         "filename": "vladar_013.md",
         "xhtml": "vladar_013.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "ŠESTÁ KAPITOLA\nO nových vladařstvích, nabytých vlastními zbraněmi a osobní zdatností",
         "subtitleSuggest": "",
         "filename": "vladar_014.md",
         "xhtml": "vladar_014.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "SEDMÁ KAPITOLA\nO nových vladařstvích, nabytých cizí silou a štěstím",
         "subtitleSuggest": "",
         "filename": "vladar_015.md",
         "xhtml": "vladar_015.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "OSMÁ KAPITOLA\nO těch, kteří se k vládě dostali zločinností",
         "subtitleSuggest": "",
         "filename": "vladar_016.md",
         "xhtml": "vladar_016.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DEVÁTÁ\nKAPITOLA\nO vladařství občanském",
         "subtitleSuggest": "",
         "filename": "vladar_017.md",
         "xhtml": "vladar_017.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DESÁTÁ KAPITOLA\nJak je třeba měřiti síly každého vladařství",
         "subtitleSuggest": "",
         "filename": "vladar_018.md",
         "xhtml": "vladar_018.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "JEDENÁCTÁ\nKAPITOLA\nO vladařstvích církevních",
         "subtitleSuggest": "",
         "filename": "vladar_019.md",
         "xhtml": "vladar_019.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DVANÁCTÁ KAPITOLA\nKolik je druhů vojska\na o námezdních vojácích",
         "subtitleSuggest": "",
         "filename": "vladar_020.md",
         "xhtml": "vladar_020.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "TŘINÁCTÁ KAPITOLA\nO vojácích výpomocných, smíšených a vlastních",
         "subtitleSuggest": "",
         "filename": "vladar_021.md",
         "xhtml": "vladar_021.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "ČTRNÁCTÁ KAPITOLA\nJaké jsou vladařovy povinnosti,\nco se týká vojska",
         "subtitleSuggest": "",
         "filename": "vladar_022.md",
         "xhtml": "vladar_022.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "PATNÁCTÁ KAPITOLA\nO věcech, pro něž jsou lidé a hlavně vladaři chváleni nebo káráni",
         "subtitleSuggest": "",
         "filename": "vladar_023.md",
         "xhtml": "vladar_023.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "ŠESTNÁCTÁ KAPITOLA\nO štědrosti a šetrnosti",
         "subtitleSuggest": "",
         "filename": "vladar_024.md",
         "xhtml": "vladar_024.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "SEDMNÁCTÁ KAPITOLA\nO krutosti a vlídnosti,\na zdali je lepší býti milován než obáván, nebo naopak",
         "subtitleSuggest": "",
         "filename": "vladar_025.md",
         "xhtml": "vladar_025.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "OSMNÁCTÁ KAPITOLA\nJak mají vladaři držeti dané slovo",
         "subtitleSuggest": "",
         "filename": "vladar_026.md",
         "xhtml": "vladar_026.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DEVATENÁCTÁ KAPITOLA\nJak je třeba střežiti se opovržení a nenávisti",
         "subtitleSuggest": "",
         "filename": "vladar_027.md",
         "xhtml": "vladar_027.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DVACÁTÁ KAPITOLA\nZdali pevnosti a mnohé jiné věci,\njež vladaři často činí, jsou užitečné, nebo škodlivé",
         "subtitleSuggest": "",
         "filename": "vladar_028.md",
         "xhtml": "vladar_028.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "JEDENADVACÁTÁ KAPITOLA\nJak si má počínati vladař,\naby nabyl autority",
         "subtitleSuggest": "",
         "filename": "vladar_029.md",
         "xhtml": "vladar_029.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DVAADVACÁTÁ\nKAPITOLA\nO vladařových ministrech",
         "subtitleSuggest": "",
         "filename": "vladar_030.md",
         "xhtml": "vladar_030.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "TŘIADVACÁTÁ KAPITOLA\nJak je třeba chrániti se pochlebníků",
         "subtitleSuggest": "",
         "filename": "vladar_031.md",
         "xhtml": "vladar_031.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "ČTYŘIADVACÁTÁ KAPITOLA\nProč ztratili italští panovníci vládu",
         "subtitleSuggest": "",
         "filename": "vladar_032.md",
         "xhtml": "vladar_032.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "PĚTADVACÁTÁ KAPITOLA\nJaký vliv má na lidské věci osud\na jak je možné vzepříti se mu",
         "subtitleSuggest": "",
         "filename": "vladar_033.md",
         "xhtml": "vladar_033.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "ŠESTADVACÁTÁ KAPITOLA\nVýzva, aby Itálie byla vyrvána a vysvobozena z rukou barbarů",
         "subtitleSuggest": "",
         "filename": "vladar_034.md",
         "xhtml": "vladar_034.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Poznámky pod čarou",
         "subtitleSuggest": "",
         "filename": "vladar_035.md",
         "xhtml": "vladar_035.html"
@@ -333,6 +694,6 @@
       "user": "books-are-next",
       "repo": "vladar"
     },
-    "generatedAt": 1636301091772
+    "generatedAt": 1636301922288
   }
 }
