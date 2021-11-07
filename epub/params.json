@@ -399,7 +399,7 @@
       "identifier": "f841d144-0c6b-4334-bc59-90adccf274a6",
       "author": "Niccolò Machiavelli",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-11-07T16:18:41.865Z"
+      "modified": "2021-11-07T16:24:16.140Z"
     },
     "chapters": [
       {
@@ -727,6 +727,6 @@
       "user": "books-are-next",
       "repo": "vladar"
     },
-    "generatedAt": 1636301922288
+    "generatedAt": 1636302256582
   }
 }
