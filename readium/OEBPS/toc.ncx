@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="f841d144-0c6b-4334-bc59-90adccf274a6"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Vladař</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Machiavelliův list o vzniku „Vladaře“ Francescovi Vettorimu, florentskému vyslanci v Římě</text>
+      </navLabel>
+      <content src="Text/vladar_005.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>VLADAŘ</text>
+      </navLabel>
+      <content src="Text/vladar_006.html"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>PRVNÍ KAPITOLA Kolik je druhů vlád a jak je jich nabýváno</text>
+        </navLabel>
+        <content src="Text/vladar_009.html"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>DRUHÁ KAPITOLA O vladařstvích dědičných</text>
+        </navLabel>
+        <content src="Text/vladar_010.html"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>TŘETÍ KAPITOLA O vladařstvích smíšených</text>
+        </navLabel>
+        <content src="Text/vladar_011.html"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>ČTVRTÁ KAPITOLA Proč se Dariova říše, dobytá Alexandrem, nevzbouřila po Alexandrově smrti proti jeho nástupcům</text>
+        </navLabel>
+        <content src="Text/vladar_012.html"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>PÁTÁ KAPITOLA Jak je třeba vládnouti obcím a státům, které předtím, než jich bylo dobyto, žily podle vlastních zákonů</text>
+        </navLabel>
+        <content src="Text/vladar_013.html"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>ŠESTÁ KAPITOLA O nových vladařstvích, nabytých vlastními zbraněmi a osobní zdatností</text>
+        </navLabel>
+        <content src="Text/vladar_014.html"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>SEDMÁ KAPITOLA O nových vladařstvích, nabytých cizí silou a štěstím</text>
+        </navLabel>
+        <content src="Text/vladar_015.html"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>OSMÁ KAPITOLA O těch, kteří se k vládě dostali zločinností</text>
+        </navLabel>
+        <content src="Text/vladar_016.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>DEVÁTÁ KAPITOLA O vladařství občanském</text>
+        </navLabel>
+        <content src="Text/vladar_017.html"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>DESÁTÁ KAPITOLA Jak je třeba měřiti síly každého vladařství</text>
+        </navLabel>
+        <content src="Text/vladar_018.html"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>JEDENÁCTÁ KAPITOLA O vladařstvích církevních</text>
+        </navLabel>
+        <content src="Text/vladar_019.html"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>DVANÁCTÁ KAPITOLA Kolik je druhů vojska a o námezdních vojácích</text>
+        </navLabel>
+        <content src="Text/vladar_020.html"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>TŘINÁCTÁ KAPITOLA O vojácích výpomocných, smíšených a vlastních</text>
+        </navLabel>
+        <content src="Text/vladar_021.html"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>ČTRNÁCTÁ KAPITOLA Jaké jsou vladařovy povinnosti, co se týká vojska</text>
+        </navLabel>
+        <content src="Text/vladar_022.html"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>PATNÁCTÁ KAPITOLA O věcech, pro něž jsou lidé a hlavně vladaři chváleni nebo káráni</text>
+        </navLabel>
+        <content src="Text/vladar_023.html"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>ŠESTNÁCTÁ KAPITOLA O štědrosti a šetrnosti</text>
+        </navLabel>
+        <content src="Text/vladar_024.html"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>SEDMNÁCTÁ KAPITOLA O krutosti a vlídnosti, a zdali je lepší býti milován než obáván, nebo naopak</text>
+        </navLabel>
+        <content src="Text/vladar_025.html"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>OSMNÁCTÁ KAPITOLA Jak mají vladaři držeti dané slovo</text>
+        </navLabel>
+        <content src="Text/vladar_026.html"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>DEVATENÁCTÁ KAPITOLA Jak je třeba střežiti se opovržení a nenávisti</text>
+        </navLabel>
+        <content src="Text/vladar_027.html"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>DVACÁTÁ KAPITOLA Zdali pevnosti a mnohé jiné věci, jež vladaři často činí, jsou užitečné, nebo škodlivé</text>
+        </navLabel>
+        <content src="Text/vladar_028.html"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>JEDENADVACÁTÁ KAPITOLA Jak si má počínati vladař, aby nabyl autority</text>
+        </navLabel>
+        <content src="Text/vladar_029.html"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>DVAADVACÁTÁ KAPITOLA O vladařových ministrech</text>
+        </navLabel>
+        <content src="Text/vladar_030.html"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>TŘIADVACÁTÁ KAPITOLA Jak je třeba chrániti se pochlebníků</text>
+        </navLabel>
+        <content src="Text/vladar_031.html"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>ČTYŘIADVACÁTÁ KAPITOLA Proč ztratili italští panovníci vládu</text>
+        </navLabel>
+        <content src="Text/vladar_032.html"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>PĚTADVACÁTÁ KAPITOLA Jaký vliv má na lidské věci osud a jak je možné vzepříti se mu</text>
+        </navLabel>
+        <content src="Text/vladar_033.html"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>ŠESTADVACÁTÁ KAPITOLA Výzva, aby Itálie byla vyrvána a vysvobozena z rukou barbarů</text>
+        </navLabel>
+        <content src="Text/vladar_034.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Poznámky pod čarou</text>
+      </navLabel>
+      <content src="Text/vladar_035.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
