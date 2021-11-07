@@ -36,36 +36,36 @@
             "filename": "vladar_001.md",
             "xhtml": "vladar_001.html",
             "id": 0,
-            "role": "chapter",
+            "role": "break",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
             "filename": "vladar_002.md",
             "xhtml": "vladar_002.html",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
             "filename": "vladar_003.md",
             "xhtml": "vladar_003.html",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
             "filename": "vladar_004.md",
             "xhtml": "vladar_004.html",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -75,7 +75,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Machiavelliův list o\nvzniku „Vladaře“ Francescovi Vettorimu, florentskému\nvyslanci v Římě"
           },
           {
             "filename": "vladar_006.md",
@@ -84,7 +85,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "VLADAŘ"
           },
           {
             "filename": "vladar_007.md",
@@ -93,7 +95,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Věnování",
+            "hiddenTitle": true
           },
           {
             "filename": "vladar_008.md",
@@ -102,7 +106,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Ti, kdož touží...",
+            "hiddenTitle": true
           },
           {
             "filename": "vladar_009.md",
@@ -111,7 +117,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "PRVNÍ KAPITOLA\nKolik je druhů vlád a jak je jich nabýváno"
           },
           {
             "filename": "vladar_010.md",
@@ -120,7 +127,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "DRUHÁ\nKAPITOLA\nO vladařstvích dědičných"
           },
           {
             "filename": "vladar_011.md",
@@ -129,7 +137,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "TŘETÍ\nKAPITOLA\nO vladařstvích smíšených"
           },
           {
             "filename": "vladar_012.md",
@@ -138,7 +147,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "ČTVRTÁ KAPITOLA\nProč se Dariova říše, dobytá Alexandrem, nevzbouřila po Alexandrově smrti proti\njeho nástupcům"
           },
           {
             "filename": "vladar_013.md",
@@ -147,7 +157,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "PÁTÁ KAPITOLA\nJak je třeba vládnouti obcím a státům, které předtím, než jich bylo dobyto,\nžily podle vlastních zákonů"
           },
           {
             "filename": "vladar_014.md",
@@ -156,7 +167,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "ŠESTÁ KAPITOLA\nO nových vladařstvích, nabytých vlastními zbraněmi a osobní zdatností"
           },
           {
             "filename": "vladar_015.md",
@@ -165,7 +177,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "SEDMÁ KAPITOLA\nO nových vladařstvích, nabytých cizí silou a štěstím"
           },
           {
             "filename": "vladar_016.md",
@@ -174,7 +187,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "OSMÁ KAPITOLA\nO těch, kteří se k vládě dostali zločinností"
           },
           {
             "filename": "vladar_017.md",
@@ -183,7 +197,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "DEVÁTÁ\nKAPITOLA\nO vladařství občanském"
           },
           {
             "filename": "vladar_018.md",
@@ -192,7 +207,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "DESÁTÁ KAPITOLA\nJak je třeba měřiti síly každého vladařství"
           },
           {
             "filename": "vladar_019.md",
@@ -201,7 +217,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "JEDENÁCTÁ\nKAPITOLA\nO vladařstvích církevních"
           },
           {
             "filename": "vladar_020.md",
@@ -210,7 +227,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "DVANÁCTÁ KAPITOLA\nKolik je druhů vojska\na o námezdních vojácích"
           },
           {
             "filename": "vladar_021.md",
@@ -219,7 +237,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "TŘINÁCTÁ KAPITOLA\nO vojácích výpomocných, smíšených a vlastních"
           },
           {
             "filename": "vladar_022.md",
@@ -228,7 +247,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "ČTRNÁCTÁ KAPITOLA\nJaké jsou vladařovy povinnosti,\nco se týká vojska"
           },
           {
             "filename": "vladar_023.md",
@@ -237,7 +257,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "PATNÁCTÁ KAPITOLA\nO věcech, pro něž jsou lidé a hlavně vladaři chváleni nebo káráni"
           },
           {
             "filename": "vladar_024.md",
@@ -246,7 +267,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "ŠESTNÁCTÁ KAPITOLA\nO štědrosti a šetrnosti"
           },
           {
             "filename": "vladar_025.md",
@@ -255,7 +277,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "SEDMNÁCTÁ KAPITOLA\nO krutosti a vlídnosti,\na zdali je lepší býti milován než obáván, nebo naopak"
           },
           {
             "filename": "vladar_026.md",
@@ -264,7 +287,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "OSMNÁCTÁ KAPITOLA\nJak mají vladaři držeti dané slovo"
           },
           {
             "filename": "vladar_027.md",
@@ -273,7 +297,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "DEVATENÁCTÁ KAPITOLA\nJak je třeba střežiti se opovržení a nenávisti"
           },
           {
             "filename": "vladar_028.md",
@@ -282,7 +307,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "DVACÁTÁ KAPITOLA\nZdali pevnosti a mnohé jiné věci,\njež vladaři často činí, jsou užitečné, nebo škodlivé"
           },
           {
             "filename": "vladar_029.md",
@@ -291,7 +317,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "JEDENADVACÁTÁ KAPITOLA\nJak si má počínati vladař,\naby nabyl autority"
           },
           {
             "filename": "vladar_030.md",
@@ -300,7 +327,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "DVAADVACÁTÁ\nKAPITOLA\nO vladařových ministrech"
           },
           {
             "filename": "vladar_031.md",
@@ -309,7 +337,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "TŘIADVACÁTÁ KAPITOLA\nJak je třeba chrániti se pochlebníků"
           },
           {
             "filename": "vladar_032.md",
@@ -318,7 +347,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "ČTYŘIADVACÁTÁ KAPITOLA\nProč ztratili italští panovníci vládu"
           },
           {
             "filename": "vladar_033.md",
@@ -327,7 +357,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "PĚTADVACÁTÁ KAPITOLA\nJaký vliv má na lidské věci osud\na jak je možné vzepříti se mu"
           },
           {
             "filename": "vladar_034.md",
@@ -336,7 +367,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "ŠESTADVACÁTÁ KAPITOLA\nVýzva, aby Itálie byla vyrvána a vysvobozena z rukou barbarů"
           },
           {
             "filename": "vladar_035.md",
@@ -345,15 +377,16 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Poznámky pod čarou"
           },
           {
             "filename": "vladar_036.md",
             "xhtml": "vladar_036.html",
             "id": 35,
-            "role": "chapter",
+            "role": "colophon",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           }
         ]
@@ -366,7 +399,7 @@
       "identifier": "f841d144-0c6b-4334-bc59-90adccf274a6",
       "author": "Niccolò Machiavelli",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-11-07T16:18:41.865Z"
+      "modified": "2021-11-07T16:24:16.140Z"
     },
     "chapters": [
       {
@@ -694,6 +727,6 @@
       "user": "books-are-next",
       "repo": "vladar"
     },
-    "generatedAt": 1636301922288
+    "generatedAt": 1636302256582
   }
 }
