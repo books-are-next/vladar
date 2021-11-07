@@ -1,1 +1,700 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "title": "Vladař",
+      "identifier": "f841d144-0c6b-4334-bc59-90adccf274a6",
+      "author": "Niccolò Machiavelli",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-11-07T16:04:51.351Z",
+      "languageCode": "cs"
+    },
+    "elements": {
+      "title": "mlpuroven1cast\nmlpuroven1zvlastnipripady",
+      "subtitle": "",
+      "h2": "",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "mlpdopis12-12svazany",
+      "brAfter": "mlpdopis12-12svazany",
+      "blockquote": "",
+      "figure": "",
+      "em": "mlpvenovani\nmlptitulkaprekladatel\nmlpznakkurziva11b",
+      "strong": "mlpznaktucne\nmlptirazautoranazev",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "vladar_001.md",
+            "xhtml": "vladar_001.html",
+            "id": 0,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_002.md",
+            "xhtml": "vladar_002.html",
+            "id": 1,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_003.md",
+            "xhtml": "vladar_003.html",
+            "id": 2,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_004.md",
+            "xhtml": "vladar_004.html",
+            "id": 3,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_005.md",
+            "xhtml": "vladar_005.html",
+            "id": 4,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_006.md",
+            "xhtml": "vladar_006.html",
+            "id": 5,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_007.md",
+            "xhtml": "vladar_007.html",
+            "id": 6,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_008.md",
+            "xhtml": "vladar_008.html",
+            "id": 7,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_009.md",
+            "xhtml": "vladar_009.html",
+            "id": 8,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_010.md",
+            "xhtml": "vladar_010.html",
+            "id": 9,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_011.md",
+            "xhtml": "vladar_011.html",
+            "id": 10,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_012.md",
+            "xhtml": "vladar_012.html",
+            "id": 11,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_013.md",
+            "xhtml": "vladar_013.html",
+            "id": 12,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_014.md",
+            "xhtml": "vladar_014.html",
+            "id": 13,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_015.md",
+            "xhtml": "vladar_015.html",
+            "id": 14,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_016.md",
+            "xhtml": "vladar_016.html",
+            "id": 15,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_017.md",
+            "xhtml": "vladar_017.html",
+            "id": 16,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_018.md",
+            "xhtml": "vladar_018.html",
+            "id": 17,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_019.md",
+            "xhtml": "vladar_019.html",
+            "id": 18,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_020.md",
+            "xhtml": "vladar_020.html",
+            "id": 19,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_021.md",
+            "xhtml": "vladar_021.html",
+            "id": 20,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_022.md",
+            "xhtml": "vladar_022.html",
+            "id": 21,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_023.md",
+            "xhtml": "vladar_023.html",
+            "id": 22,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_024.md",
+            "xhtml": "vladar_024.html",
+            "id": 23,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_025.md",
+            "xhtml": "vladar_025.html",
+            "id": 24,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_026.md",
+            "xhtml": "vladar_026.html",
+            "id": 25,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_027.md",
+            "xhtml": "vladar_027.html",
+            "id": 26,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_028.md",
+            "xhtml": "vladar_028.html",
+            "id": 27,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_029.md",
+            "xhtml": "vladar_029.html",
+            "id": 28,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_030.md",
+            "xhtml": "vladar_030.html",
+            "id": 29,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_031.md",
+            "xhtml": "vladar_031.html",
+            "id": 30,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_032.md",
+            "xhtml": "vladar_032.html",
+            "id": 31,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_033.md",
+            "xhtml": "vladar_033.html",
+            "id": 32,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_034.md",
+            "xhtml": "vladar_034.html",
+            "id": 33,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_035.md",
+            "xhtml": "vladar_035.html",
+            "id": 34,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "vladar_036.md",
+            "xhtml": "vladar_036.html",
+            "id": 35,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Vladař",
+      "identifier": "f841d144-0c6b-4334-bc59-90adccf274a6",
+      "author": "Niccolò Machiavelli",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-11-07T16:04:51.351Z",
+      "languageCode": "cs"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_001.md",
+        "xhtml": "vladar_001.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_002.md",
+        "xhtml": "vladar_002.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_003.md",
+        "xhtml": "vladar_003.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_004.md",
+        "xhtml": "vladar_004.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_005.md",
+        "xhtml": "vladar_005.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_006.md",
+        "xhtml": "vladar_006.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_007.md",
+        "xhtml": "vladar_007.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_008.md",
+        "xhtml": "vladar_008.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_009.md",
+        "xhtml": "vladar_009.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_010.md",
+        "xhtml": "vladar_010.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_011.md",
+        "xhtml": "vladar_011.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_012.md",
+        "xhtml": "vladar_012.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_013.md",
+        "xhtml": "vladar_013.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_014.md",
+        "xhtml": "vladar_014.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_015.md",
+        "xhtml": "vladar_015.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_016.md",
+        "xhtml": "vladar_016.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_017.md",
+        "xhtml": "vladar_017.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_018.md",
+        "xhtml": "vladar_018.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_019.md",
+        "xhtml": "vladar_019.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_020.md",
+        "xhtml": "vladar_020.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_021.md",
+        "xhtml": "vladar_021.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_022.md",
+        "xhtml": "vladar_022.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_023.md",
+        "xhtml": "vladar_023.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_024.md",
+        "xhtml": "vladar_024.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_025.md",
+        "xhtml": "vladar_025.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_026.md",
+        "xhtml": "vladar_026.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_027.md",
+        "xhtml": "vladar_027.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_028.md",
+        "xhtml": "vladar_028.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_029.md",
+        "xhtml": "vladar_029.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_030.md",
+        "xhtml": "vladar_030.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_031.md",
+        "xhtml": "vladar_031.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_032.md",
+        "xhtml": "vladar_032.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_033.md",
+        "xhtml": "vladar_033.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_034.md",
+        "xhtml": "vladar_034.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_035.md",
+        "xhtml": "vladar_035.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vladar_036.md",
+        "xhtml": "vladar_036.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image003.png"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "calibre1",
+      "calibre10",
+      "calibre11",
+      "calibre15",
+      "calibre16",
+      "calibre17",
+      "calibre18",
+      "calibre19",
+      "calibre23",
+      "calibre24",
+      "calibre5",
+      "calibre6",
+      "calibre7",
+      "calibre8",
+      "calibre9",
+      "mlpdopis",
+      "mlpdopis12-12svazany",
+      "mlpdopisbez1radku",
+      "mlpdopisosloveni",
+      "mlpdopispodpis",
+      "mlpdopissvazany",
+      "mlplicencehypertext",
+      "mlplicenceobrazek",
+      "mlplicenceparagraf",
+      "mlplicencetext",
+      "mlpobrazky",
+      "mlpprimarec",
+      "mlptext",
+      "mlptextbez1radku",
+      "mlptextbez1radku1",
+      "mlptextbez1radku2",
+      "mlptirazautoranazev",
+      "mlptitulkaautor",
+      "mlptitulkanazev",
+      "mlptitulkaprekladatel",
+      "mlpuroven1cast",
+      "mlpuroven1zvlastnipripady",
+      "mlpvenovani",
+      "mlpverse",
+      "mlpznakkurziva11b",
+      "mlpznaktucne",
+      "msofootnotereference",
+      "msofootnotetext",
+      "pcalibre",
+      "pcalibre1",
+      "wordsection",
+      "wordsection1",
+      "wordsection3",
+      "wordsection4",
+      "wordsection5",
+      "wordsection6",
+      "wordsection7"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "vladar"
+    },
+    "generatedAt": 1636301091772
+  }
+}
