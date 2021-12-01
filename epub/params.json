@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Vladař",
@@ -6,7 +7,9 @@
       "author": "Niccolò Machiavelli",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-11-07T16:04:51.351Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "mlpuroven1cast\nmlpuroven1zvlastnipripady",
@@ -36,7 +39,7 @@
             "filename": "vladar_001.md",
             "xhtml": "vladar_001.html",
             "id": 0,
-            "role": "break",
+            "role": "cover",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -730,3 +733,4 @@
     "generatedAt": 1636302256582
   }
 }
+
