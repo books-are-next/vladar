@@ -1,5 +1,6 @@
 ---
 title: ''
+hiddenTitle: true
 ---
 
 _Niccolò Machiavelli  
