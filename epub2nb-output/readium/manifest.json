@@ -1,0 +1,329 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Vladař",
+    "identifier": "f841d144-0c6b-4334-bc59-90adccf274a6",
+    "author": "Niccolò Machiavelli",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2021-12-02T11:59:25.759Z",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_014.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_015.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_016.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_017.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_018.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_019.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_020.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_021.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_022.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_023.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_024.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_025.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_026.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_027.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_028.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_029.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_030.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_031.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_032.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_033.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_034.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_035.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vladar_036.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image003.png"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Machiavelliův list o vzniku „Vladaře“ Francescovi Vettorimu, florentskému vyslanci v Římě",
+      "href": "OEBPS/Text/vladar_005.html"
+    },
+    {
+      "title": "VLADAŘ",
+      "children": [
+        {
+          "title": "PRVNÍ KAPITOLA Kolik je druhů vlád a jak je jich nabýváno",
+          "href": "OEBPS/Text/vladar_009.html"
+        },
+        {
+          "title": "DRUHÁ KAPITOLA O vladařstvích dědičných",
+          "href": "OEBPS/Text/vladar_010.html"
+        },
+        {
+          "title": "TŘETÍ KAPITOLA O vladařstvích smíšených",
+          "href": "OEBPS/Text/vladar_011.html"
+        },
+        {
+          "title": "ČTVRTÁ KAPITOLA Proč se Dariova říše, dobytá Alexandrem, nevzbouřila po Alexandrově smrti proti jeho nástupcům",
+          "href": "OEBPS/Text/vladar_012.html"
+        },
+        {
+          "title": "PÁTÁ KAPITOLA Jak je třeba vládnouti obcím a státům, které předtím, než jich bylo dobyto, žily podle vlastních zákonů",
+          "href": "OEBPS/Text/vladar_013.html"
+        },
+        {
+          "title": "ŠESTÁ KAPITOLA O nových vladařstvích, nabytých vlastními zbraněmi a osobní zdatností",
+          "href": "OEBPS/Text/vladar_014.html"
+        },
+        {
+          "title": "SEDMÁ KAPITOLA O nových vladařstvích, nabytých cizí silou a štěstím",
+          "href": "OEBPS/Text/vladar_015.html"
+        },
+        {
+          "title": "OSMÁ KAPITOLA O těch, kteří se k vládě dostali zločinností",
+          "href": "OEBPS/Text/vladar_016.html"
+        },
+        {
+          "title": "DEVÁTÁ KAPITOLA O vladařství občanském",
+          "href": "OEBPS/Text/vladar_017.html"
+        },
+        {
+          "title": "DESÁTÁ KAPITOLA Jak je třeba měřiti síly každého vladařství",
+          "href": "OEBPS/Text/vladar_018.html"
+        },
+        {
+          "title": "JEDENÁCTÁ KAPITOLA O vladařstvích církevních",
+          "href": "OEBPS/Text/vladar_019.html"
+        },
+        {
+          "title": "DVANÁCTÁ KAPITOLA Kolik je druhů vojska a o námezdních vojácích",
+          "href": "OEBPS/Text/vladar_020.html"
+        },
+        {
+          "title": "TŘINÁCTÁ KAPITOLA O vojácích výpomocných, smíšených a vlastních",
+          "href": "OEBPS/Text/vladar_021.html"
+        },
+        {
+          "title": "ČTRNÁCTÁ KAPITOLA Jaké jsou vladařovy povinnosti, co se týká vojska",
+          "href": "OEBPS/Text/vladar_022.html"
+        },
+        {
+          "title": "PATNÁCTÁ KAPITOLA O věcech, pro něž jsou lidé a hlavně vladaři chváleni nebo káráni",
+          "href": "OEBPS/Text/vladar_023.html"
+        },
+        {
+          "title": "ŠESTNÁCTÁ KAPITOLA O štědrosti a šetrnosti",
+          "href": "OEBPS/Text/vladar_024.html"
+        },
+        {
+          "title": "SEDMNÁCTÁ KAPITOLA O krutosti a vlídnosti, a zdali je lepší býti milován než obáván, nebo naopak",
+          "href": "OEBPS/Text/vladar_025.html"
+        },
+        {
+          "title": "OSMNÁCTÁ KAPITOLA Jak mají vladaři držeti dané slovo",
+          "href": "OEBPS/Text/vladar_026.html"
+        },
+        {
+          "title": "DEVATENÁCTÁ KAPITOLA Jak je třeba střežiti se opovržení a nenávisti",
+          "href": "OEBPS/Text/vladar_027.html"
+        },
+        {
+          "title": "DVACÁTÁ KAPITOLA Zdali pevnosti a mnohé jiné věci, jež vladaři často činí, jsou užitečné, nebo škodlivé",
+          "href": "OEBPS/Text/vladar_028.html"
+        },
+        {
+          "title": "JEDENADVACÁTÁ KAPITOLA Jak si má počínati vladař, aby nabyl autority",
+          "href": "OEBPS/Text/vladar_029.html"
+        },
+        {
+          "title": "DVAADVACÁTÁ KAPITOLA O vladařových ministrech",
+          "href": "OEBPS/Text/vladar_030.html"
+        },
+        {
+          "title": "TŘIADVACÁTÁ KAPITOLA Jak je třeba chrániti se pochlebníků",
+          "href": "OEBPS/Text/vladar_031.html"
+        },
+        {
+          "title": "ČTYŘIADVACÁTÁ KAPITOLA Proč ztratili italští panovníci vládu",
+          "href": "OEBPS/Text/vladar_032.html"
+        },
+        {
+          "title": "PĚTADVACÁTÁ KAPITOLA Jaký vliv má na lidské věci osud a jak je možné vzepříti se mu",
+          "href": "OEBPS/Text/vladar_033.html"
+        },
+        {
+          "title": "ŠESTADVACÁTÁ KAPITOLA Výzva, aby Itálie byla vyrvána a vysvobozena z rukou barbarů",
+          "href": "OEBPS/Text/vladar_034.html"
+        }
+      ],
+      "href": "OEBPS/Text/vladar_006.html"
+    },
+    {
+      "title": "Poznámky pod čarou",
+      "href": "OEBPS/Text/vladar_035.html"
+    }
+  ]
+}
