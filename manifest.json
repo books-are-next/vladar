@@ -1,21 +1,58 @@
 {
-  "author": "Niccolò Machiavelli",
-  "edition": "beletrie",
-  "identifier": "machiavelli-vladar-df97686",
-  "languagecode": "cs",
-  "modified": "2021-11-07T16:04:51.351Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Vladař",
-  "revision": "df97686",
+  "author": "Niccolò Machiavelli",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "machiavelli-vladar-24c3ebf",
+  "revision": "24c3ebf",
+  "readingOrder": [
+    "promo.html",
+    "vladar_005.html",
+    "vladar_006.html",
+    "vladar_007.html",
+    "vladar_008.html",
+    "vladar_009.html",
+    "vladar_010.html",
+    "vladar_011.html",
+    "vladar_012.html",
+    "vladar_013.html",
+    "vladar_014.html",
+    "vladar_015.html",
+    "vladar_016.html",
+    "vladar_017.html",
+    "vladar_018.html",
+    "vladar_019.html",
+    "vladar_020.html",
+    "vladar_021.html",
+    "vladar_022.html",
+    "vladar_023.html",
+    "vladar_024.html",
+    "vladar_025.html",
+    "vladar_026.html",
+    "vladar_027.html",
+    "vladar_028.html",
+    "vladar_029.html",
+    "vladar_030.html",
+    "vladar_031.html",
+    "vladar_032.html",
+    "vladar_033.html",
+    "vladar_034.html",
+    "vladar_035.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Thu Dec 02 2021 12:00:20 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638446420702
+    "date": "Thu May 12 2022 10:37:21 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351841491
   },
   "documents": [
     {
-      "title": "Vladař",
-      "file": "vladar_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,38 +60,30 @@
       "order": 0,
       "prev": null,
       "next": "vladar_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Machiavelliův list o\nvzniku „Vladaře“ Francescovi Vettorimu[1], florentskému\nvyslanci v Římě • Vladař",
+      "title": "Machiavelliův list o vzniku „Vladaře“ Francescovi Vettorimu[1], florentskému vyslanci v Římě",
       "file": "vladar_005.html",
       "words": 1321,
-      "chars": 7543,
-      "ideas": 15,
+      "chars": 7545,
+      "ideas": 13,
       "role": "chapter",
       "order": 1,
-      "prev": "vladar_002.html",
+      "prev": "promo.html",
       "next": "vladar_006.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "Machiavelliův list o\nvzniku „Vladaře“ Francescovi Vettorimu[1], florentskému\nvyslanci v Římě",
+          "name": "Machiavelliův list o vzniku „Vladaře“ Francescovi Vettorimu[1], florentskému vyslanci v Římě",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "VLADAŘ • Vladař",
+      "title": "VLADAŘ",
       "file": "vladar_006.html",
       "words": 1,
       "chars": 6,
@@ -114,11 +143,11 @@
       ]
     },
     {
-      "title": "PRVNÍ KAPITOLA\nKolik je druhů vlád a jak je jich nabýváno • Vladař",
+      "title": "PRVNÍ KAPITOLA Kolik je druhů vlád a jak je jich nabýváno",
       "file": "vladar_009.html",
       "words": 11,
-      "chars": 56,
-      "ideas": 2,
+      "chars": 57,
+      "ideas": 1,
       "role": "chapter",
       "order": 5,
       "prev": "vladar_008.html",
@@ -127,18 +156,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "PRVNÍ KAPITOLA\nKolik je druhů vlád a jak je jich nabýváno",
+          "name": "PRVNÍ KAPITOLA Kolik je druhů vlád a jak je jich nabýváno",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "DRUHÁ\nKAPITOLA\nO vladařstvích dědičných • Vladař",
+      "title": "DRUHÁ KAPITOLA O vladařstvích dědičných",
       "file": "vladar_010.html",
       "words": 5,
-      "chars": 37,
-      "ideas": 3,
+      "chars": 39,
+      "ideas": 1,
       "role": "chapter",
       "order": 6,
       "prev": "vladar_009.html",
@@ -147,18 +176,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "DRUHÁ\nKAPITOLA\nO vladařstvích dědičných",
+          "name": "DRUHÁ KAPITOLA O vladařstvích dědičných",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "TŘETÍ\nKAPITOLA\nO vladařstvích smíšených • Vladař",
+      "title": "TŘETÍ KAPITOLA O vladařstvích smíšených",
       "file": "vladar_011.html",
       "words": 2483,
-      "chars": 15048,
-      "ideas": 11,
+      "chars": 15050,
+      "ideas": 9,
       "role": "chapter",
       "order": 7,
       "prev": "vladar_010.html",
@@ -167,18 +196,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "TŘETÍ\nKAPITOLA\nO vladařstvích smíšených",
+          "name": "TŘETÍ KAPITOLA O vladařstvích smíšených",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "ČTVRTÁ KAPITOLA\nProč se Dariova říše, dobytá Alexandrem, nevzbouřila po Alexandrově smrti proti\njeho nástupcům • Vladař",
+      "title": "ČTVRTÁ KAPITOLA Proč se Dariova říše, dobytá Alexandrem, nevzbouřila po Alexandrově smrti proti jeho nástupcům",
       "file": "vladar_012.html",
       "words": 832,
-      "chars": 5082,
-      "ideas": 8,
+      "chars": 5084,
+      "ideas": 6,
       "role": "chapter",
       "order": 8,
       "prev": "vladar_011.html",
@@ -187,18 +216,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ČTVRTÁ KAPITOLA\nProč se Dariova říše, dobytá Alexandrem, nevzbouřila po Alexandrově smrti proti\njeho nástupcům",
+          "name": "ČTVRTÁ KAPITOLA Proč se Dariova říše, dobytá Alexandrem, nevzbouřila po Alexandrově smrti proti jeho nástupcům",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "PÁTÁ KAPITOLA\nJak je třeba vládnouti obcím a státům, které předtím, než jich bylo dobyto,\nžily podle vlastních zákonů • Vladař",
+      "title": "PÁTÁ KAPITOLA Jak je třeba vládnouti obcím a státům, které předtím, než jich bylo dobyto, žily podle vlastních zákonů",
       "file": "vladar_013.html",
       "words": 19,
-      "chars": 115,
-      "ideas": 3,
+      "chars": 117,
+      "ideas": 1,
       "role": "chapter",
       "order": 9,
       "prev": "vladar_012.html",
@@ -207,18 +236,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "PÁTÁ KAPITOLA\nJak je třeba vládnouti obcím a státům, které předtím, než jich bylo dobyto,\nžily podle vlastních zákonů",
+          "name": "PÁTÁ KAPITOLA Jak je třeba vládnouti obcím a státům, které předtím, než jich bylo dobyto, žily podle vlastních zákonů",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "ŠESTÁ KAPITOLA\nO nových vladařstvích, nabytých vlastními zbraněmi a osobní zdatností • Vladař",
+      "title": "ŠESTÁ KAPITOLA O nových vladařstvích, nabytých vlastními zbraněmi a osobní zdatností",
       "file": "vladar_014.html",
       "words": 973,
-      "chars": 6037,
-      "ideas": 7,
+      "chars": 6038,
+      "ideas": 6,
       "role": "chapter",
       "order": 10,
       "prev": "vladar_013.html",
@@ -227,18 +256,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ŠESTÁ KAPITOLA\nO nových vladařstvích, nabytých vlastními zbraněmi a osobní zdatností",
+          "name": "ŠESTÁ KAPITOLA O nových vladařstvích, nabytých vlastními zbraněmi a osobní zdatností",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "SEDMÁ KAPITOLA\nO nových vladařstvích, nabytých cizí silou a štěstím • Vladař",
+      "title": "SEDMÁ KAPITOLA O nových vladařstvích, nabytých cizí silou a štěstím",
       "file": "vladar_015.html",
       "words": 2174,
-      "chars": 13040,
-      "ideas": 11,
+      "chars": 13041,
+      "ideas": 10,
       "role": "chapter",
       "order": 11,
       "prev": "vladar_014.html",
@@ -247,18 +276,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "SEDMÁ KAPITOLA\nO nových vladařstvích, nabytých cizí silou a štěstím",
+          "name": "SEDMÁ KAPITOLA O nových vladařstvích, nabytých cizí silou a štěstím",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "OSMÁ KAPITOLA\nO těch, kteří se k vládě dostali zločinností • Vladař",
+      "title": "OSMÁ KAPITOLA O těch, kteří se k vládě dostali zločinností",
       "file": "vladar_016.html",
       "words": 1229,
-      "chars": 7629,
-      "ideas": 6,
+      "chars": 7630,
+      "ideas": 5,
       "role": "chapter",
       "order": 12,
       "prev": "vladar_015.html",
@@ -267,18 +296,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "OSMÁ KAPITOLA\nO těch, kteří se k vládě dostali zločinností",
+          "name": "OSMÁ KAPITOLA O těch, kteří se k vládě dostali zločinností",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "DEVÁTÁ\nKAPITOLA\nO vladařství občanském • Vladař",
+      "title": "DEVÁTÁ KAPITOLA O vladařství občanském",
       "file": "vladar_017.html",
       "words": 1055,
-      "chars": 6276,
-      "ideas": 9,
+      "chars": 6278,
+      "ideas": 7,
       "role": "chapter",
       "order": 13,
       "prev": "vladar_016.html",
@@ -287,18 +316,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "DEVÁTÁ\nKAPITOLA\nO vladařství občanském",
+          "name": "DEVÁTÁ KAPITOLA O vladařství občanském",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "DESÁTÁ KAPITOLA\nJak je třeba měřiti síly každého vladařství • Vladař",
+      "title": "DESÁTÁ KAPITOLA Jak je třeba měřiti síly každého vladařství",
       "file": "vladar_018.html",
       "words": 562,
-      "chars": 3319,
-      "ideas": 4,
+      "chars": 3320,
+      "ideas": 3,
       "role": "chapter",
       "order": 14,
       "prev": "vladar_017.html",
@@ -307,18 +336,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "DESÁTÁ KAPITOLA\nJak je třeba měřiti síly každého vladařství",
+          "name": "DESÁTÁ KAPITOLA Jak je třeba měřiti síly každého vladařství",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "JEDENÁCTÁ\nKAPITOLA\nO vladařstvích církevních • Vladař",
+      "title": "JEDENÁCTÁ KAPITOLA O vladařstvích církevních",
       "file": "vladar_019.html",
       "words": 704,
-      "chars": 4387,
-      "ideas": 9,
+      "chars": 4389,
+      "ideas": 7,
       "role": "chapter",
       "order": 15,
       "prev": "vladar_018.html",
@@ -327,18 +356,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "JEDENÁCTÁ\nKAPITOLA\nO vladařstvích církevních",
+          "name": "JEDENÁCTÁ KAPITOLA O vladařstvích církevních",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "DVANÁCTÁ KAPITOLA\nKolik je druhů vojska\na o námezdních vojácích • Vladař",
+      "title": "DVANÁCTÁ KAPITOLA Kolik je druhů vojska a o námezdních vojácích",
       "file": "vladar_020.html",
       "words": 1360,
-      "chars": 8461,
-      "ideas": 11,
+      "chars": 8463,
+      "ideas": 9,
       "role": "chapter",
       "order": 16,
       "prev": "vladar_019.html",
@@ -347,18 +376,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "DVANÁCTÁ KAPITOLA\nKolik je druhů vojska\na o námezdních vojácích",
+          "name": "DVANÁCTÁ KAPITOLA Kolik je druhů vojska a o námezdních vojácích",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "TŘINÁCTÁ KAPITOLA\nO vojácích výpomocných, smíšených a vlastních • Vladař",
+      "title": "TŘINÁCTÁ KAPITOLA O vojácích výpomocných, smíšených a vlastních",
       "file": "vladar_021.html",
       "words": 1041,
-      "chars": 6488,
-      "ideas": 9,
+      "chars": 6489,
+      "ideas": 8,
       "role": "chapter",
       "order": 17,
       "prev": "vladar_020.html",
@@ -367,18 +396,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "TŘINÁCTÁ KAPITOLA\nO vojácích výpomocných, smíšených a vlastních",
+          "name": "TŘINÁCTÁ KAPITOLA O vojácích výpomocných, smíšených a vlastních",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "ČTRNÁCTÁ KAPITOLA\nJaké jsou vladařovy povinnosti,\nco se týká vojska • Vladař",
+      "title": "ČTRNÁCTÁ KAPITOLA Jaké jsou vladařovy povinnosti, co se týká vojska",
       "file": "vladar_022.html",
       "words": 723,
-      "chars": 4392,
-      "ideas": 8,
+      "chars": 4394,
+      "ideas": 6,
       "role": "chapter",
       "order": 18,
       "prev": "vladar_021.html",
@@ -387,18 +416,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ČTRNÁCTÁ KAPITOLA\nJaké jsou vladařovy povinnosti,\nco se týká vojska",
+          "name": "ČTRNÁCTÁ KAPITOLA Jaké jsou vladařovy povinnosti, co se týká vojska",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "PATNÁCTÁ KAPITOLA\nO věcech, pro něž jsou lidé a hlavně vladaři chváleni nebo káráni • Vladař",
+      "title": "PATNÁCTÁ KAPITOLA O věcech, pro něž jsou lidé a hlavně vladaři chváleni nebo káráni",
       "file": "vladar_023.html",
       "words": 488,
-      "chars": 2882,
-      "ideas": 4,
+      "chars": 2883,
+      "ideas": 3,
       "role": "chapter",
       "order": 19,
       "prev": "vladar_022.html",
@@ -407,18 +436,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "PATNÁCTÁ KAPITOLA\nO věcech, pro něž jsou lidé a hlavně vladaři chváleni nebo káráni",
+          "name": "PATNÁCTÁ KAPITOLA O věcech, pro něž jsou lidé a hlavně vladaři chváleni nebo káráni",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "ŠESTNÁCTÁ KAPITOLA\nO štědrosti a šetrnosti • Vladař",
+      "title": "ŠESTNÁCTÁ KAPITOLA O štědrosti a šetrnosti",
       "file": "vladar_024.html",
       "words": 696,
-      "chars": 4185,
-      "ideas": 6,
+      "chars": 4186,
+      "ideas": 5,
       "role": "chapter",
       "order": 20,
       "prev": "vladar_023.html",
@@ -427,18 +456,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ŠESTNÁCTÁ KAPITOLA\nO štědrosti a šetrnosti",
+          "name": "ŠESTNÁCTÁ KAPITOLA O štědrosti a šetrnosti",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "SEDMNÁCTÁ KAPITOLA\nO krutosti a vlídnosti,\na zdali je lepší býti milován než obáván, nebo naopak • Vladař",
+      "title": "SEDMNÁCTÁ KAPITOLA O krutosti a vlídnosti, a zdali je lepší býti milován než obáván, nebo naopak",
       "file": "vladar_025.html",
       "words": 908,
-      "chars": 5555,
-      "ideas": 12,
+      "chars": 5557,
+      "ideas": 10,
       "role": "chapter",
       "order": 21,
       "prev": "vladar_024.html",
@@ -447,18 +476,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "SEDMNÁCTÁ KAPITOLA\nO krutosti a vlídnosti,\na zdali je lepší býti milován než obáván, nebo naopak",
+          "name": "SEDMNÁCTÁ KAPITOLA O krutosti a vlídnosti, a zdali je lepší býti milován než obáván, nebo naopak",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "OSMNÁCTÁ KAPITOLA\nJak mají vladaři držeti dané slovo • Vladař",
+      "title": "OSMNÁCTÁ KAPITOLA Jak mají vladaři držeti dané slovo",
       "file": "vladar_026.html",
       "words": 814,
-      "chars": 4878,
-      "ideas": 9,
+      "chars": 4879,
+      "ideas": 8,
       "role": "chapter",
       "order": 22,
       "prev": "vladar_025.html",
@@ -467,18 +496,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "OSMNÁCTÁ KAPITOLA\nJak mají vladaři držeti dané slovo",
+          "name": "OSMNÁCTÁ KAPITOLA Jak mají vladaři držeti dané slovo",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "DEVATENÁCTÁ KAPITOLA\nJak je třeba střežiti se opovržení a nenávisti • Vladař",
+      "title": "DEVATENÁCTÁ KAPITOLA Jak je třeba střežiti se opovržení a nenávisti",
       "file": "vladar_027.html",
       "words": 2869,
-      "chars": 17630,
-      "ideas": 23,
+      "chars": 17631,
+      "ideas": 22,
       "role": "chapter",
       "order": 23,
       "prev": "vladar_026.html",
@@ -487,18 +516,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "DEVATENÁCTÁ KAPITOLA\nJak je třeba střežiti se opovržení a nenávisti",
+          "name": "DEVATENÁCTÁ KAPITOLA Jak je třeba střežiti se opovržení a nenávisti",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "DVACÁTÁ KAPITOLA\nZdali pevnosti a mnohé jiné věci,\njež vladaři často činí, jsou užitečné, nebo škodlivé • Vladař",
+      "title": "DVACÁTÁ KAPITOLA Zdali pevnosti a mnohé jiné věci, jež vladaři často činí, jsou užitečné, nebo škodlivé",
       "file": "vladar_028.html",
       "words": 1248,
-      "chars": 7739,
-      "ideas": 10,
+      "chars": 7741,
+      "ideas": 8,
       "role": "chapter",
       "order": 24,
       "prev": "vladar_027.html",
@@ -507,18 +536,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "DVACÁTÁ KAPITOLA\nZdali pevnosti a mnohé jiné věci,\njež vladaři často činí, jsou užitečné, nebo škodlivé",
+          "name": "DVACÁTÁ KAPITOLA Zdali pevnosti a mnohé jiné věci, jež vladaři často činí, jsou užitečné, nebo škodlivé",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "JEDENADVACÁTÁ KAPITOLA\nJak si má počínati vladař,\naby nabyl autority • Vladař",
+      "title": "JEDENADVACÁTÁ KAPITOLA Jak si má počínati vladař, aby nabyl autority",
       "file": "vladar_029.html",
       "words": 1049,
-      "chars": 6406,
-      "ideas": 9,
+      "chars": 6408,
+      "ideas": 7,
       "role": "chapter",
       "order": 25,
       "prev": "vladar_028.html",
@@ -527,18 +556,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "JEDENADVACÁTÁ KAPITOLA\nJak si má počínati vladař,\naby nabyl autority",
+          "name": "JEDENADVACÁTÁ KAPITOLA Jak si má počínati vladař, aby nabyl autority",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "DVAADVACÁTÁ\nKAPITOLA\nO vladařových ministrech • Vladař",
+      "title": "DVAADVACÁTÁ KAPITOLA O vladařových ministrech",
       "file": "vladar_030.html",
       "words": 365,
-      "chars": 2173,
-      "ideas": 7,
+      "chars": 2175,
+      "ideas": 5,
       "role": "chapter",
       "order": 26,
       "prev": "vladar_029.html",
@@ -547,18 +576,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "DVAADVACÁTÁ\nKAPITOLA\nO vladařových ministrech",
+          "name": "DVAADVACÁTÁ KAPITOLA O vladařových ministrech",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "TŘIADVACÁTÁ KAPITOLA\nJak je třeba chrániti se pochlebníků • Vladař",
+      "title": "TŘIADVACÁTÁ KAPITOLA Jak je třeba chrániti se pochlebníků",
       "file": "vladar_031.html",
       "words": 587,
-      "chars": 3400,
-      "ideas": 6,
+      "chars": 3401,
+      "ideas": 5,
       "role": "chapter",
       "order": 27,
       "prev": "vladar_030.html",
@@ -567,18 +596,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "TŘIADVACÁTÁ KAPITOLA\nJak je třeba chrániti se pochlebníků",
+          "name": "TŘIADVACÁTÁ KAPITOLA Jak je třeba chrániti se pochlebníků",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "ČTYŘIADVACÁTÁ KAPITOLA\nProč ztratili italští panovníci vládu • Vladař",
+      "title": "ČTYŘIADVACÁTÁ KAPITOLA Proč ztratili italští panovníci vládu",
       "file": "vladar_032.html",
       "words": 445,
-      "chars": 2729,
-      "ideas": 6,
+      "chars": 2730,
+      "ideas": 5,
       "role": "chapter",
       "order": 28,
       "prev": "vladar_031.html",
@@ -587,18 +616,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ČTYŘIADVACÁTÁ KAPITOLA\nProč ztratili italští panovníci vládu",
+          "name": "ČTYŘIADVACÁTÁ KAPITOLA Proč ztratili italští panovníci vládu",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "PĚTADVACÁTÁ KAPITOLA\nJaký vliv má na lidské věci osud\na jak je možné vzepříti se mu • Vladař",
+      "title": "PĚTADVACÁTÁ KAPITOLA Jaký vliv má na lidské věci osud a jak je možné vzepříti se mu",
       "file": "vladar_033.html",
       "words": 1021,
-      "chars": 5969,
-      "ideas": 8,
+      "chars": 5971,
+      "ideas": 6,
       "role": "chapter",
       "order": 29,
       "prev": "vladar_032.html",
@@ -607,18 +636,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "PĚTADVACÁTÁ KAPITOLA\nJaký vliv má na lidské věci osud\na jak je možné vzepříti se mu",
+          "name": "PĚTADVACÁTÁ KAPITOLA Jaký vliv má na lidské věci osud a jak je možné vzepříti se mu",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "ŠESTADVACÁTÁ KAPITOLA\nVýzva, aby Itálie byla vyrvána a vysvobozena z rukou barbarů • Vladař",
+      "title": "ŠESTADVACÁTÁ KAPITOLA Výzva, aby Itálie byla vyrvána a vysvobozena z rukou barbarů",
       "file": "vladar_034.html",
       "words": 1148,
-      "chars": 6866,
-      "ideas": 14,
+      "chars": 6867,
+      "ideas": 13,
       "role": "chapter",
       "order": 30,
       "prev": "vladar_033.html",
@@ -627,14 +656,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ŠESTADVACÁTÁ KAPITOLA\nVýzva, aby Itálie byla vyrvána a vysvobozena z rukou barbarů",
+          "name": "ŠESTADVACÁTÁ KAPITOLA Výzva, aby Itálie byla vyrvána a vysvobozena z rukou barbarů",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Poznámky pod čarou • Vladař",
+      "title": "Poznámky pod čarou",
       "file": "vladar_035.html",
       "words": 294,
       "chars": 2038,
@@ -654,11 +683,11 @@
       ]
     },
     {
-      "title": "Tiráž • Vladař",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 129,
-      "chars": 881,
-      "ideas": 24,
+      "words": 99,
+      "chars": 675,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "vladar_035.html",
@@ -676,14 +705,14 @@
   ],
   "totals": {
     "all": {
-      "words": 26559,
-      "chars": 161283,
-      "ideas": 277
+      "words": 26529,
+      "chars": 161118,
+      "ideas": 226
     },
     "chapters": {
       "words": 26425,
-      "chars": 160366,
-      "ideas": 249
+      "chars": 160407,
+      "ideas": 208
     }
   }
 }

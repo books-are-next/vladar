@@ -1,7 +1,8 @@
 ---
-title: |-
-  ŠESTADVACÁTÁ KAPITOLA
-  Výzva, aby Itálie byla vyrvána a vysvobozena z rukou barbarů
+title: >-
+  ŠESTADVACÁTÁ KAPITOLA Výzva, aby Itálie byla vyrvána a vysvobozena z rukou
+  barbarů
+contentType: prose
 ---
 
 Když tedy uvažuji o všech těch věcech, o nichž jsme nahoře mluvili, a když tak sám v sobě přemýšlím, zdali jsou dnes v Itálii časy schopné proslaviti nějakého nového vladaře a zdali jsou takové poměry, které by moudrému a statečnému panovníkovi poskytovaly příležitost zavésti v Itálii takovou vládní formu, aby byla jemu ke cti a všem lidem ku prospěchu, zdá se mi, že okolnosti jsou novému vladaři tak příznivé, že nevím, byl-li kdy příhodnější čas než tento. A bylo-li, jak jsem již řekl, nutné – jestliže se měla projeviti Mojžíšova zdatnost –, aby národ izraelský byl poroben v Egyptě, a bylo-li pro poznání Kyrova velikého ducha třeba, aby Peršané byli utiskováni Médy, a pro poznání Theseovy znamenitosti, aby Athéňané byli rozprášeni, stejně dnes bylo k tomu, aby byla poznána znamenitost a zdatnost italského ducha, nutné, aby se Itálie octla v těch koncích, v nichž je teď, a aby byla ještě porobenější než Hebreové, ještě zotročenější než Peršané, ještě roztříštěnější než Athéňané, bez vůdce, bez pořádku, bita, oloupena, rozervána, nepřátelskými nájezdy zaplavována a aby vytrpěla všechny možné hrůzy. A třebaže se do těchto dnů v nejednom muži ukázal zásvit naděje, takže bylo možné domnívati se, že byl poslán od boha ke spáse Itálie, přece ho později, když byl v nejúsilnější práci, štěstí opustilo.

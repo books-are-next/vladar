@@ -1,11 +1,8 @@
 ---
 title: >-
-  ČTVRTÁ KAPITOLA
-
-  Proč se Dariova říše, dobytá Alexandrem, nevzbouřila po Alexandrově smrti
-  proti
-
-  jeho nástupcům
+  ČTVRTÁ KAPITOLA Proč se Dariova říše, dobytá Alexandrem, nevzbouřila po
+  Alexandrově smrti proti jeho nástupcům
+contentType: prose
 ---
 
 Když se uváží, jak je těžké míti v moci nově nabytý stát, někdo by se mohl diviti, jak to, že Alexander Veliký se stal pánem Asie v několika málo letech a že se celá ta země, když téměř ihned potom zemřel, nevzbouřila, jak by se to zdálo samozřejmé. Jeho nástupci ji přesto podrželi ve své moci a ovládali ji beze všech jiných těžkostí než ty, které vznikly z jejich vlastní ctižádostivosti mezi nimi samými. Na to odpovídám, že všechny monarchické říše, pokud jsou známy lidské paměti, jsou ovládány dvěma způsoby: buď v nich vládne panovník a ve vládě mu jenom pomáhají ostatní služebníci, kteří se z jeho milosti a s jeho souhlasem stávají ministry; nebo vládne vladař a spolu s ním šlechta, která má účast ve vládě nikoli z panovníkovy milosti, nýbrž pro starobylost svého rodu. Takoví šlechtici mají vlastní země a poddané, kteří je uznávají za své pány a jsou jim oddáni. Ony státy, v nichž vládne panovník sám, maje ministry pouze k pomoci, mají vladaře autoritativnějšího, protože v jeho zemi není nikdo, kdo by uznával někoho vyššího, než je on; a jsou-li poslušni někoho jiného, poslouchají ho jenom jakožto ministra a úředníka, a nikoli z nějaké zvláštní lásky.

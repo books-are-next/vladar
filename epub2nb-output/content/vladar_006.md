@@ -1,5 +1,6 @@
 ---
 title: VLADAŘ
+contentType: prose
 ---
 
 

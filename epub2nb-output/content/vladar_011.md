@@ -1,8 +1,6 @@
 ---
-title: |-
-  TŘETÍ
-  KAPITOLA
-  O vladařstvích smíšených
+title: TŘETÍ KAPITOLA O vladařstvích smíšených
+contentType: prose
 ---
 
 Zato však v monarchických státech nových jsou těžkosti. Především, nejde-li o stát úplně nový, nýbrž toliko o připojenou část, takže celek lze pak nazvati státem smíšeným, všelijaké obměny vznikají z té přirozené nesnáze, která se vyskytuje ve všech nových státech a záleží v tom, že lidé rádi mění pána, neboť doufají, že si polepší; v této své naději se chápou zbraní proti svému vladaři, ale mýlí se, neboť zkušenost je pak poučí, že si pohoršili. Toto pohoršení vyplývá z jiné přirozené a samozřejmé nezbytnosti: vladař totiž je nucen své nové poddané utiskovati jak vojenskými posádkami, tak nesčetnými jinými příkořími, jež s sebou přináší nový výboj. Jsou tedy tvými nepřáteli všichni ti, jimž jsi nějak ublížil při obsazování té nové země; a nemůžeš si uchovati ani přátelství lidí, kteří ti k tomu výboji pomohli, protože jim nemůžeš dáti to, co očekávali, a protože nemůžeš proti nim použíti násilí, neboť jsi jim zavázán. Člověk totiž vždycky, i když má velmi silné vojsko, potřebuje, chce-li vniknouti do nějaké země, přízně domácích lidí. Právě proto Ludvík XII., král francouzský, dobyl rychle Milána a stejně rychle ho pozbyl; a na to, aby mu Milán byl po prvé vzat, stačily vlastní síly Lodovica Sforzy, neboť obyvatelé, kteří Francouzům otevřeli brány, nemohli, když byli zklamáni ve svém mínění a očekávání budoucího dobra, snášeti tlak nového vladaře. Je ovšem pravda, že dobude-li někdo vzbouřivších se zemí po druhé, ztrácí je pak méně snadno; neboť vladař se pak pod záminkou vzpoury bezohledněji zabezpečuje tím, že trestá provinilce, zajišťuje si lidi podezřelé a činí opatření tam, kde cítí slabiny. Tak se stalo, že na to, aby Francie ztratila Milán, stačilo po prvé, aby jediný vévoda Lodovico zabřinkal zbraněmi na milánských hranicích, ale na to, aby ztratila Milán po druhé, bylo již třeba, aby se proti ní postavil celý svět a aby francouzské vojsko bylo na hlavu poraženo a vyhnáno z Itálie: a to se stalo z příčin zmíněných nahoře. Přece však ztratila Francie Milán jak po prvé, tak po druhé.

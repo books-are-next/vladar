@@ -1,7 +1,6 @@
 ---
-title: |-
-  ŠESTNÁCTÁ KAPITOLA
-  O štědrosti a šetrnosti
+title: ŠESTNÁCTÁ KAPITOLA O štědrosti a šetrnosti
+contentType: prose
 ---
 
 Počínám tedy prvními ze svrchu psaných vlastností a pravím, že by bylo dobré býti považován za štědrého. Nicméně štědrost, provozovaná tak, že ti nevynese pověst člověka štědrého, ti škodí. Jestliže totiž konáš štědré skutky ctnostně a tak, jak konány býti mají, nebude tvá štědrost známa a neuchrání tě pověsti, že jsi lakomec. Kdo tedy chce uchovati si pověst člověka štědrého, nesmí opomíjeti žádnou okázalost, takže takový vladař spotřebuje na to celý svůj majetek a nakonec, bude-li si chtíti uchovati pověst člověka štědrého, bude nucen zatížiti obyvatelstvo mimořádnými dávkami a daněmi a dělati všechno, co člověk může dělati, aby dostal peníze. To začne v poddaných probouzeti nenávist k němu a lidé si ho přestanou vážiti, protože zchudl, takže uškodiv touto svou štědrostí mnohým a poděliv jich svými dary málo, stává se obětí sebemenší nehody a ocitá se hned při prvním nezdaru v nebezpečí pádu. A když si to uvědomí a chce tomu uniknouti, ihned je pomlouván jako člověk skoupý. Proto tedy vladař, ježto nemůže býti bez vlastní škody štědrým tak, aby jeho štědrost byla známa, nesmí, je-li prozíravý, dbáti toho, že má pověst člověka skoupého, neboť časem bude stále více a více považován za štědrého, až lidé uvidí, že mu při té jeho šetrnosti dostačují jeho příjmy a že může bez nových daní ubrániti se nepříteli a vésti války: tak totiž bude štědrý ke všem těm, kterým nic nebere, a těch je nesmírně mnoho, a skoupý k těm, kterým nic nedává, a těch je málo.

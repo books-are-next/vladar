@@ -1,7 +1,6 @@
 ---
-title: |-
-  DESÁTÁ KAPITOLA
-  Jak je třeba měřiti síly každého vladařství
+title: DESÁTÁ KAPITOLA Jak je třeba měřiti síly každého vladařství
+contentType: prose
 ---
 
 Když zkoumáme jakost těchto vladařství, musíme si všimnouti také toho, zdali má vladař takovou moc, aby se, je-li třeba, uhájil sám, nebo potřebuje-li vždycky, aby ho hájili jiní. A abych tuto otázku lépe objasnil, pravím, že sám se podle mého názoru může uhájiti ten, kdo má tolik lidí nebo peněz, že může postaviti dostatečnou armádu a utkati se v boji s každým, kdo ho napadne. A stejně potřebuje podle mého názoru vždycky cizí pomoci ten, kdo se nepříteli nemůže postaviti v poli, nýbrž je nucen uchýliti se za hradby a hájiti je.

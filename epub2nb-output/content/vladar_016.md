@@ -1,7 +1,6 @@
 ---
-title: |-
-  OSMÁ KAPITOLA
-  O těch, kteří se k vládě dostali zločinností
+title: OSMÁ KAPITOLA O těch, kteří se k vládě dostali zločinností
+contentType: prose
 ---
 
 Protože však lidé se ze soukromníků stávají vladaři ještě dvěma způsoby, jež nikterak nelze přisuzovati štěstí nebo osobní dokonalosti, nezdá se mi vhodným pominouti je mlčením, třebaže o druhém z nich by se dalo podrobně uvažovati tam, kde by se pojednávalo o republikách. Jsou pak ty dva způsoby tyto: když někdo dosáhne vladařství nějakou cestou zločinnou nebo podlou a když se soukromý občan stane vladařem ve své vlasti na přání svých spoluobčanů. A protože zde mluvím o prvním z těch dvou způsobů, ukáži toho dva příklady, jeden starý a jeden nový, jinak však nebudu podrobně rozbírati tuto věc, neboť soudím, že uvedené příklady dostatečně poučí každého, kdo by potřeboval napodobiti je.

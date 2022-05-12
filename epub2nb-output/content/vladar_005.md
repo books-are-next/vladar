@@ -1,8 +1,8 @@
 ---
-title: |-
-  Machiavelliův list o
-  vzniku „Vladaře“ Francescovi Vettorimu[1], florentskému
+title: >-
+  Machiavelliův list o vzniku „Vladaře“ Francescovi Vettorimu[1], florentskému
   vyslanci v Římě
+contentType: prose
 ---
 
 Vážený vyslanče,

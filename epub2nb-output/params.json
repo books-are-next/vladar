@@ -47,7 +47,7 @@
             "filename": "vladar_002.md",
             "xhtml": "vladar_002.html",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -401,7 +401,7 @@
       "identifier": "f841d144-0c6b-4334-bc59-90adccf274a6",
       "author": "Niccolò Machiavelli",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-02T11:59:25.759Z"
+      "modified": "2018-02-15T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -429,7 +429,7 @@
         "xhtml": "vladar_004.html"
       },
       {
-        "titleSuggest": "Machiavelliův list o\nvzniku „Vladaře“ Francescovi Vettorimu[1], florentskému\nvyslanci v Římě",
+        "titleSuggest": "Machiavelliův list o vzniku „Vladaře“ Francescovi Vettorimu[1], florentskému vyslanci v Římě",
         "subtitleSuggest": "",
         "filename": "vladar_005.md",
         "xhtml": "vladar_005.html"
@@ -453,157 +453,157 @@
         "xhtml": "vladar_008.html"
       },
       {
-        "titleSuggest": "PRVNÍ KAPITOLA\nKolik je druhů vlád a jak je jich nabýváno",
+        "titleSuggest": "PRVNÍ KAPITOLA Kolik je druhů vlád a jak je jich nabýváno",
         "subtitleSuggest": "",
         "filename": "vladar_009.md",
         "xhtml": "vladar_009.html"
       },
       {
-        "titleSuggest": "DRUHÁ\nKAPITOLA\nO vladařstvích dědičných",
+        "titleSuggest": "DRUHÁ KAPITOLA O vladařstvích dědičných",
         "subtitleSuggest": "",
         "filename": "vladar_010.md",
         "xhtml": "vladar_010.html"
       },
       {
-        "titleSuggest": "TŘETÍ\nKAPITOLA\nO vladařstvích smíšených",
+        "titleSuggest": "TŘETÍ KAPITOLA O vladařstvích smíšených",
         "subtitleSuggest": "",
         "filename": "vladar_011.md",
         "xhtml": "vladar_011.html"
       },
       {
-        "titleSuggest": "ČTVRTÁ KAPITOLA\nProč se Dariova říše, dobytá Alexandrem, nevzbouřila po Alexandrově smrti proti\njeho nástupcům",
+        "titleSuggest": "ČTVRTÁ KAPITOLA Proč se Dariova říše, dobytá Alexandrem, nevzbouřila po Alexandrově smrti proti jeho nástupcům",
         "subtitleSuggest": "",
         "filename": "vladar_012.md",
         "xhtml": "vladar_012.html"
       },
       {
-        "titleSuggest": "PÁTÁ KAPITOLA\nJak je třeba vládnouti obcím a státům, které předtím, než jich bylo dobyto,\nžily podle vlastních zákonů",
+        "titleSuggest": "PÁTÁ KAPITOLA Jak je třeba vládnouti obcím a státům, které předtím, než jich bylo dobyto, žily podle vlastních zákonů",
         "subtitleSuggest": "",
         "filename": "vladar_013.md",
         "xhtml": "vladar_013.html"
       },
       {
-        "titleSuggest": "ŠESTÁ KAPITOLA\nO nových vladařstvích, nabytých vlastními zbraněmi a osobní zdatností",
+        "titleSuggest": "ŠESTÁ KAPITOLA O nových vladařstvích, nabytých vlastními zbraněmi a osobní zdatností",
         "subtitleSuggest": "",
         "filename": "vladar_014.md",
         "xhtml": "vladar_014.html"
       },
       {
-        "titleSuggest": "SEDMÁ KAPITOLA\nO nových vladařstvích, nabytých cizí silou a štěstím",
+        "titleSuggest": "SEDMÁ KAPITOLA O nových vladařstvích, nabytých cizí silou a štěstím",
         "subtitleSuggest": "",
         "filename": "vladar_015.md",
         "xhtml": "vladar_015.html"
       },
       {
-        "titleSuggest": "OSMÁ KAPITOLA\nO těch, kteří se k vládě dostali zločinností",
+        "titleSuggest": "OSMÁ KAPITOLA O těch, kteří se k vládě dostali zločinností",
         "subtitleSuggest": "",
         "filename": "vladar_016.md",
         "xhtml": "vladar_016.html"
       },
       {
-        "titleSuggest": "DEVÁTÁ\nKAPITOLA\nO vladařství občanském",
+        "titleSuggest": "DEVÁTÁ KAPITOLA O vladařství občanském",
         "subtitleSuggest": "",
         "filename": "vladar_017.md",
         "xhtml": "vladar_017.html"
       },
       {
-        "titleSuggest": "DESÁTÁ KAPITOLA\nJak je třeba měřiti síly každého vladařství",
+        "titleSuggest": "DESÁTÁ KAPITOLA Jak je třeba měřiti síly každého vladařství",
         "subtitleSuggest": "",
         "filename": "vladar_018.md",
         "xhtml": "vladar_018.html"
       },
       {
-        "titleSuggest": "JEDENÁCTÁ\nKAPITOLA\nO vladařstvích církevních",
+        "titleSuggest": "JEDENÁCTÁ KAPITOLA O vladařstvích církevních",
         "subtitleSuggest": "",
         "filename": "vladar_019.md",
         "xhtml": "vladar_019.html"
       },
       {
-        "titleSuggest": "DVANÁCTÁ KAPITOLA\nKolik je druhů vojska\na o námezdních vojácích",
+        "titleSuggest": "DVANÁCTÁ KAPITOLA Kolik je druhů vojska a o námezdních vojácích",
         "subtitleSuggest": "",
         "filename": "vladar_020.md",
         "xhtml": "vladar_020.html"
       },
       {
-        "titleSuggest": "TŘINÁCTÁ KAPITOLA\nO vojácích výpomocných, smíšených a vlastních",
+        "titleSuggest": "TŘINÁCTÁ KAPITOLA O vojácích výpomocných, smíšených a vlastních",
         "subtitleSuggest": "",
         "filename": "vladar_021.md",
         "xhtml": "vladar_021.html"
       },
       {
-        "titleSuggest": "ČTRNÁCTÁ KAPITOLA\nJaké jsou vladařovy povinnosti,\nco se týká vojska",
+        "titleSuggest": "ČTRNÁCTÁ KAPITOLA Jaké jsou vladařovy povinnosti, co se týká vojska",
         "subtitleSuggest": "",
         "filename": "vladar_022.md",
         "xhtml": "vladar_022.html"
       },
       {
-        "titleSuggest": "PATNÁCTÁ KAPITOLA\nO věcech, pro něž jsou lidé a hlavně vladaři chváleni nebo káráni",
+        "titleSuggest": "PATNÁCTÁ KAPITOLA O věcech, pro něž jsou lidé a hlavně vladaři chváleni nebo káráni",
         "subtitleSuggest": "",
         "filename": "vladar_023.md",
         "xhtml": "vladar_023.html"
       },
       {
-        "titleSuggest": "ŠESTNÁCTÁ KAPITOLA\nO štědrosti a šetrnosti",
+        "titleSuggest": "ŠESTNÁCTÁ KAPITOLA O štědrosti a šetrnosti",
         "subtitleSuggest": "",
         "filename": "vladar_024.md",
         "xhtml": "vladar_024.html"
       },
       {
-        "titleSuggest": "SEDMNÁCTÁ KAPITOLA\nO krutosti a vlídnosti,\na zdali je lepší býti milován než obáván, nebo naopak",
+        "titleSuggest": "SEDMNÁCTÁ KAPITOLA O krutosti a vlídnosti, a zdali je lepší býti milován než obáván, nebo naopak",
         "subtitleSuggest": "",
         "filename": "vladar_025.md",
         "xhtml": "vladar_025.html"
       },
       {
-        "titleSuggest": "OSMNÁCTÁ KAPITOLA\nJak mají vladaři držeti dané slovo",
+        "titleSuggest": "OSMNÁCTÁ KAPITOLA Jak mají vladaři držeti dané slovo",
         "subtitleSuggest": "",
         "filename": "vladar_026.md",
         "xhtml": "vladar_026.html"
       },
       {
-        "titleSuggest": "DEVATENÁCTÁ KAPITOLA\nJak je třeba střežiti se opovržení a nenávisti",
+        "titleSuggest": "DEVATENÁCTÁ KAPITOLA Jak je třeba střežiti se opovržení a nenávisti",
         "subtitleSuggest": "",
         "filename": "vladar_027.md",
         "xhtml": "vladar_027.html"
       },
       {
-        "titleSuggest": "DVACÁTÁ KAPITOLA\nZdali pevnosti a mnohé jiné věci,\njež vladaři často činí, jsou užitečné, nebo škodlivé",
+        "titleSuggest": "DVACÁTÁ KAPITOLA Zdali pevnosti a mnohé jiné věci, jež vladaři často činí, jsou užitečné, nebo škodlivé",
         "subtitleSuggest": "",
         "filename": "vladar_028.md",
         "xhtml": "vladar_028.html"
       },
       {
-        "titleSuggest": "JEDENADVACÁTÁ KAPITOLA\nJak si má počínati vladař,\naby nabyl autority",
+        "titleSuggest": "JEDENADVACÁTÁ KAPITOLA Jak si má počínati vladař, aby nabyl autority",
         "subtitleSuggest": "",
         "filename": "vladar_029.md",
         "xhtml": "vladar_029.html"
       },
       {
-        "titleSuggest": "DVAADVACÁTÁ\nKAPITOLA\nO vladařových ministrech",
+        "titleSuggest": "DVAADVACÁTÁ KAPITOLA O vladařových ministrech",
         "subtitleSuggest": "",
         "filename": "vladar_030.md",
         "xhtml": "vladar_030.html"
       },
       {
-        "titleSuggest": "TŘIADVACÁTÁ KAPITOLA\nJak je třeba chrániti se pochlebníků",
+        "titleSuggest": "TŘIADVACÁTÁ KAPITOLA Jak je třeba chrániti se pochlebníků",
         "subtitleSuggest": "",
         "filename": "vladar_031.md",
         "xhtml": "vladar_031.html"
       },
       {
-        "titleSuggest": "ČTYŘIADVACÁTÁ KAPITOLA\nProč ztratili italští panovníci vládu",
+        "titleSuggest": "ČTYŘIADVACÁTÁ KAPITOLA Proč ztratili italští panovníci vládu",
         "subtitleSuggest": "",
         "filename": "vladar_032.md",
         "xhtml": "vladar_032.html"
       },
       {
-        "titleSuggest": "PĚTADVACÁTÁ KAPITOLA\nJaký vliv má na lidské věci osud\na jak je možné vzepříti se mu",
+        "titleSuggest": "PĚTADVACÁTÁ KAPITOLA Jaký vliv má na lidské věci osud a jak je možné vzepříti se mu",
         "subtitleSuggest": "",
         "filename": "vladar_033.md",
         "xhtml": "vladar_033.html"
       },
       {
-        "titleSuggest": "ŠESTADVACÁTÁ KAPITOLA\nVýzva, aby Itálie byla vyrvána a vysvobozena z rukou barbarů",
+        "titleSuggest": "ŠESTADVACÁTÁ KAPITOLA Výzva, aby Itálie byla vyrvána a vysvobozena z rukou barbarů",
         "subtitleSuggest": "",
         "filename": "vladar_034.md",
         "xhtml": "vladar_034.html"
@@ -729,6 +729,6 @@
       "user": "books-are-next",
       "repo": "vladar"
     },
-    "generatedAt": 1638446366172
+    "generatedAt": 1652351362272
   }
 }

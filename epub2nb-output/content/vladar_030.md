@@ -1,8 +1,6 @@
 ---
-title: |-
-  DVAADVACÁTÁ
-  KAPITOLA
-  O vladařových ministrech
+title: DVAADVACÁTÁ KAPITOLA O vladařových ministrech
+contentType: prose
 ---
 
 Nemalý význam má pro vladaře volba ministrů. Jsou – podle toho, jak moudrý je vladař – dobří, nebo špatní. A nejlepší úsudek o vladaři a jeho rozumu si uděláme, když se podíváme, jaké lidi má kolem sebe. Když jsou to muži obratní a spolehliví, vždycky je možné považovati ho za moudrého, protože dovedl poznati jejich obratnosti a uchovati si jejich spolehlivost. Když však jsou jiní, vždycky je možné udělati si o něm úsudek nedobrý, neboť první chybu, kterou činí, činí tou volbou.

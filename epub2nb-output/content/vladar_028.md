@@ -1,8 +1,8 @@
 ---
-title: |-
-  DVACÁTÁ KAPITOLA
-  Zdali pevnosti a mnohé jiné věci,
-  jež vladaři často činí, jsou užitečné, nebo škodlivé
+title: >-
+  DVACÁTÁ KAPITOLA Zdali pevnosti a mnohé jiné věci, jež vladaři často činí,
+  jsou užitečné, nebo škodlivé
+contentType: prose
 ---
 
 Někteří panovníci, aby zabezpečili svou vládu, odzbrojili poddané. Jiní udržovali podrobené země rozštěpeny v nepřátelské strany. Jiní rozněcovali nepřátelství sami proti sobě. Jiní usilovali získati si ty, kteří jim byli na počátku jejich vlády podezřelí. Někteří si vybudovali pevnosti. Jiní je zrušili a rozbořili. A třebaže o všech těchto věcech nelze říci přesný úsudek, dokud se nepřihlédne k zvláštnostem států, v nichž by bylo třeba učiniti nějaké takové rozhodnutí, přece o tom promluvím tak podrobně, jak to tento námět dovoluje.

@@ -1,7 +1,8 @@
 ---
-title: |-
-  ŠESTÁ KAPITOLA
-  O nových vladařstvích, nabytých vlastními zbraněmi a osobní zdatností
+title: >-
+  ŠESTÁ KAPITOLA O nových vladařstvích, nabytých vlastními zbraněmi a osobní
+  zdatností
+contentType: prose
 ---
 
 Nikdo se nediv, že až teď budu mluviti o úplně nových vladařstvích a o vladaři, uvedu vynikající příklady. Lidé totiž téměř vždycky chodí cestami, jež vyšlapali jiní, a napodobují ve svých skutcích jiné lidi, ale není možné choditi přesně v cizích stopách ani dosáhnouti dokonalosti těch, jež napodobuješ. Má proto člověk moudrý choditi vždy cestami, jež vyšlapali mužové velicí, a říditi se příkladem těch, kteří nejvíce vynikali, aby z nich, jestliže nedosahuje jejich dokonalosti, měl aspoň něco. A má si počínati jako ti prozíraví lukostřelci, kteří když se jim místo, na něž chtějí dostřeliti, zdá příliš vzdálené, zamíří vysoko nad cíl, a to nikoli proto, aby šípem dostřelili tak vysoko, nýbrž proto, aby za pomoci té výšky dosáhli cíle. Pravím tedy, že udržeti si vladařství úplně nové, v němž je nový vladař, bývá více nebo méně nesnadné, podle větší nebo menší osobní zdatnosti toho, kdo ho nabyl. A protože již ta skutečnost, že se někdo z prostého člověka stane vladařem, předpokládá buď osobní zdatnost, nebo štěstí, zdá se, že ta nebo ona z těchto dvou věcí částečně zmirňuje mnohé nesnáze. Přece však ten, komu štěstí přálo méně, se u moci udržel lépe. Přispívá k tomu také to, že panovník, protože nemá jiných států, je nucen usaditi se tam osobně.

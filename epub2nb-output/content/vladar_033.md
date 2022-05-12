@@ -1,8 +1,8 @@
 ---
-title: |-
-  PĚTADVACÁTÁ KAPITOLA
-  Jaký vliv má na lidské věci osud
-  a jak je možné vzepříti se mu
+title: >-
+  PĚTADVACÁTÁ KAPITOLA Jaký vliv má na lidské věci osud a jak je možné vzepříti
+  se mu
+contentType: prose
 ---
 
 Není mi neznámo, že podle názoru mnohých lidí osud a bůh ovládají pozemské věci tak, že člověk je svou moudrostí nemůže upravovati, ba vůbec na ně nemá žádný vliv. Z toho by se pak mohlo usuzovati, že nemá smyslu lopotiti se a že nezbývá než nechati se ovládati osudem. Tento názor se za našich časů rozšířil, protože jsme viděli a dodnes vidíme takové změny, že to přesahuje lidský rozum. Když tak o tom někdy přemýšlím, přikláním se z části k tomuto názoru. Přece však, protože člověk má přece také svobodnou vůli, míním, že je možná pravda, že osud rozhoduje o polovině našich skutků, že však o druhé polovině nebo o části o něco málo menší dovoluje rozhodovati nám.

@@ -1,7 +1,6 @@
 ---
-title: |-
-  OSMNÁCTÁ KAPITOLA
-  Jak mají vladaři držeti dané slovo
+title: OSMNÁCTÁ KAPITOLA Jak mají vladaři držeti dané slovo
+contentType: prose
 ---
 
 Každý chápe, že je hodno chvály, když vladař drží dané slovo a žije v upřímnosti, nikoli v úskočnosti. Nicméně zkušenost našich časů nám ukazuje, že veliké věci vykonali panovníci, kteří málo dbali daného slova a kteří dovedli poplésti lidské mozky obmyslností, až nakonec překonali ty, kteří svou vládu založili na čestnosti.
