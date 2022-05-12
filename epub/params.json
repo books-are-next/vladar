@@ -48,7 +48,7 @@
             "filename": "vladar_002.md",
             "xhtml": "vladar_002.html",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -733,4 +733,3 @@
     "generatedAt": 1636302256582
   }
 }
-
