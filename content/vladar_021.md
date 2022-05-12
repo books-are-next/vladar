@@ -1,7 +1,6 @@
 ---
-title: |-
-  TŘINÁCTÁ KAPITOLA
-  O vojácích výpomocných, smíšených a vlastních
+title: TŘINÁCTÁ KAPITOLA O vojácích výpomocných, smíšených a vlastních
+contentType: prose
 ---
 
 Vojska pomocná, také neužitečná, jsou ta, když si zavoláš někoho mocného, aby ti se svým vojskem přišel pomoci a brániti tě, jak to v nedávném čase učinil papež Julius. Když na ferrarské výpravě viděl žalostné výkony svých námezdných vojsk, uchýlil se k vojsku výpomocnému, a dohodl se proto se španělským králem Ferdinandem, že mu se svým mužstvem a vojskem bude pomáhati.

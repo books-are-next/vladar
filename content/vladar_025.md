@@ -1,8 +1,8 @@
 ---
-title: |-
-  SEDMNÁCTÁ KAPITOLA
-  O krutosti a vlídnosti,
-  a zdali je lepší býti milován než obáván, nebo naopak
+title: >-
+  SEDMNÁCTÁ KAPITOLA O krutosti a vlídnosti, a zdali je lepší býti milován než
+  obáván, nebo naopak
+contentType: prose
 ---
 
 Přistupuji k dalším ze svrchu uvedených vlastností a pravím, že každý panovník musí toužiti, aby byl považován za vlídného, nikoli za krutého. Nicméně musí dbáti, aby své vlídnosti nepoužíval špatně. Cesare Borgia byl považován za ukrutníka, ale jeho krutost uklidnila Romagnu, sjednotila ji a vrátila jí mír a věrnost. Když se to dobře uváží, uvidí se, že Cesare Borgia byl mnohem laskavější než florentský lid, který z touhy, aby nebyl nazýván krutým, nechal zničiti Pistoiu.

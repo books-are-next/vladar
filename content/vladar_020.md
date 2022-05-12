@@ -1,8 +1,6 @@
 ---
-title: |-
-  DVANÁCTÁ KAPITOLA
-  Kolik je druhů vojska
-  a o námezdních vojácích
+title: DVANÁCTÁ KAPITOLA Kolik je druhů vojska a o námezdních vojácích
+contentType: prose
 ---
 
 Když jsem byl jednotlivě pojednal o všech vlastnostech oněch vladařství, o nichž jsem si na počátku umínil uvažovati, a když jsem aspoň částečně probral příčiny jejich zdaru nebo nezdaru a ukázal, jak všelijak se mnozí snažili nabýti jich, zbývá mi teď pojednati zhruba o útočných a obranných prostředcích, jež jsou možné v každém z popsaných druhů vladařství. Řekli jsme si již, že každý vladař potřebuje dobré základy; jinak musí padnouti. Hlavní základy všech vlád jak nových, tak starých nebo smíšených, jsou dobré zákony a dobré vojsko. A protože nemohou býti dobré zákony tam, kde není dobré vojsko, a protože tam, kde je dobré vojsko, jistě jsou také dobré zákony, nebudu uvažovati o zákonech, a promluvím o vojsku.

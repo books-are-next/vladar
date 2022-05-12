@@ -1,7 +1,6 @@
 ---
-title: |-
-  DEVATENÁCTÁ KAPITOLA
-  Jak je třeba střežiti se opovržení a nenávisti
+title: DEVATENÁCTÁ KAPITOLA Jak je třeba střežiti se opovržení a nenávisti
+contentType: prose
 ---
 
 A teď, když jsem již pojednal o nejdůležitějších ze svrchu psaných vlastností, o ostatních pohovořím zkrátka z toho všeobecného hlediska, že panovník, jak jsem zčásti řekl již nahoře, má se vyhýbati všemu, co by mohlo buditi nenávist a opovržení k němu. A dokud se tomu vyhýbá, dosahuje svých cílů a žádné nebezpečí mu nevzniká z jiných jeho špatností.

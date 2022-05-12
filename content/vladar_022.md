@@ -1,8 +1,6 @@
 ---
-title: |-
-  ČTRNÁCTÁ KAPITOLA
-  Jaké jsou vladařovy povinnosti,
-  co se týká vojska
+title: ČTRNÁCTÁ KAPITOLA Jaké jsou vladařovy povinnosti, co se týká vojska
+contentType: prose
 ---
 
 Vladař tedy nemá míti jiného zájmu a myšlenky ani si nemá pilně hleděti ničeho jiného než války a její organizace a kázně. Neboť to je jediné umění, jež je očekáváno od člověka, který rozkazuje. A je to umění tak mocné, že nejen udržuje u moci ty, kteří jsou vladaři od narození, nýbrž pomáhá mnohdy i prostým občanům dosáhnouti té hodnosti. A naopak zase máme příklady, že vladaři, kteří myslili více na poživačnost než na vojsko, ztratili svou vládu. A první příčinou, pro kterou ztratíš vládu, je nevšímavost k tomuto umění, a příčinou, která ti k vládě pomáhá, je, že jsi v něm zkušený.

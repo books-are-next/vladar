@@ -1,8 +1,6 @@
 ---
-title: |-
-  DEVÁTÁ
-  KAPITOLA
-  O vladařství občanském
+title: DEVÁTÁ KAPITOLA O vladařství občanském
+contentType: prose
 ---
 
 Ale přistupme k druhému způsobu, totiž k tomu, když se prostý občan stane vladařem ve své vlasti nikoli zločinností nebo nějakým jiným hanebným násilím, nýbrž přízní svých spoluobčanů. Takové vladařství lze nazvati občanským a k tomu, aby ho bylo dosaženo, není třeba dokonalé osobní zdatnosti nebo dokonalého štěstí, nýbrž spíše vychytralosti, podporované štěstím. Tohoto vladařství je tedy možno dosáhnouti buď přízní lidu, nebo přízní předáků; neboť v každé obci jsou ty dva rozdílné náladové proudy, vznikající z toho, že lid touží nebýti ovládán a utiskován předáky a předáci touží ovládati a utiskovati lid. Z těchto dvou tužeb vzniká v obcích jeden z těchto tří výsledků: buď vláda jednoho člověka, nebo svoboda, nebo anarchie. Samovládu dosazuje buď lid, nebo předáci, podle toho, jaký důvod k tomu má ta nebo ona strana. Když totiž vlivní předáci vidí, že již nemohou odolávati lidu, začnou vynášeti znamenitost některého ze svého středu a učiní ho vladařem, aby mohli v jeho stínu ukájeti své choutky. Lid zase vychvaluje znamenitost některého svého člověka, když vidí, že již neodolá mocným předákům, a učiní ho vladařem, aby byl chráněn jeho autoritou.

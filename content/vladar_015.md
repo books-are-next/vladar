@@ -1,7 +1,6 @@
 ---
-title: |-
-  SEDMÁ KAPITOLA
-  O nových vladařstvích, nabytých cizí silou a štěstím
+title: SEDMÁ KAPITOLA O nových vladařstvích, nabytých cizí silou a štěstím
+contentType: prose
 ---
 
 Ti, kteří jenom za pomoci štěstí se stávají ze soukromníků vladaři, dosahují toho s malou námahou, ale u moci se udržují hodně nesnadně. Cestou se nesetkávají s žádnými nesnázemi, protože letí na křídlech štěstí, ale všechny možné těžkosti se vyrojí, jakmile jsou u cíle. Tak se děje těm, jimž se vlády dostalo buď za peníze, nebo přízní toho, kdo jim vládu dal, jak se to stalo mnohým v Řecku, v obcích iónských a hellespontských, kde je Darius ustanovil vladaři, aby ty kraje drželi pro jeho bezpečnost a slávu. Podobně se z občanského stavu skrze úplatnost vojska dostali k vládě římští imperátoři. Takoví panovníci jsou úplně závislí na vůli a na štěstí těch, kteří jim k vládě pomohli. Ale cizí vůle a štěstí jsou věci vrtkavé a nestálé. Takoví panovníci nedovedou a nemohou udržeti si moc. Nedovedou proto, že jenom člověk velmi důmyslný a zdatný dovede, když předtím žil vždycky jenom soukromě, najednou rozkazovat; a nemohou proto, že nemají oddaného a věrného vojska. Dále pak státy, vzniklé rychle, nemohou – stejně jako jiné věci v přírodě, které vznikají a rostou rychle – míti kořeny a kmeny tak silné, aby je nesmetla hned první bouře, pakliže ti, kteří se náhle stali vladaři, nejsou tak silní a zdatní, že dovedou ten dar, který jim štěstí vložilo do klína, ihned upevniti a ochrániti a základy, jež jiní položili dříve, než se stali vladaři, vybudovati dodatečně.

@@ -1,8 +1,6 @@
 ---
-title: |-
-  JEDENÁCTÁ
-  KAPITOLA
-  O vladařstvích církevních
+title: JEDENÁCTÁ KAPITOLA O vladařstvích církevních
+contentType: prose
 ---
 
 Zbývá nám teď uvažovati ještě o vladařstvích církevních. U těch jsou všechny těžkosti předtím, než je jich nabyto, protože jsou získávána buď osobní zdatností, nebo štěstím, ale potom jsou udržována jak bez zdatnosti, tak bez štěstí. Opírají se totiž o starobylé náboženské řády; a ty jsou vesměs tak mocné a pevné, že udržují panovníky u vlády, nechť si počínají nebo žijí, jak chtějí. Takoví panovníci mají sice státy, ale nehájí jich, mají sice poddané, ale nevládnou jim. A státy, třebaže jsou nehájeny, jim nejsou sebrány, a poddaní, třebaže nejsou ovládáni, nedbají toho a ani nemohou, ani je nenapadá odpoutati se od nich. Proto tedy jenom taková vladařství jsou šťastná a bezpečná. Protože však jsou řízena vyšší moudrostí, jíž lidská mysl nedosahuje, nebudu o nich mluviti. Jsou totiž zřizována a udržována bohem, takže uvažovati o nich by mohl jenom člověk domýšlivý a opovážlivý.

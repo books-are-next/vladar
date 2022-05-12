@@ -1,8 +1,6 @@
 ---
-title: |-
-  JEDENADVACÁTÁ KAPITOLA
-  Jak si má počínati vladař,
-  aby nabyl autority
+title: JEDENADVACÁTÁ KAPITOLA Jak si má počínati vladař, aby nabyl autority
+contentType: prose
 ---
 
 Nic nebudí úctu k panovníkovi tak velice jako významné činy a to, když svými skutky dává vzácný příklad. Dnes máme takového vladaře ve Ferdinandovi, králi aragonském, nynějším králi španělském. Toho lze nazývati téměř novým panovníkem, protože ze slabého krále se stal vynikající pověstí a slávou největším panovníkem křesťanů. Pozorujete-li jeho činy, vidíte, že jsou všechny velmi vynikající a nejeden dokonce neobyčejný. Na počátku své vlády zaútočil na Granadu a tento čin se stal základem jeho státní moci. Zprvu vedl válku liknavě a bez nejmenšího zdání nějakých překážek: zaměstnával tou výpravou mysli kastilských baronů, neboť myslíce na válku nemyslili na změnu vlády. A on zatím tímto způsobem nabýval slávy a moci nad nimi tak, že to ani nepozorovali. Penězi církve a národů mohl vydržovati vojsko a položiti tou dlouhou válkou základy vlastní vojenské moci, která ho potom proslavila. Kromě toho, aby se mohl pustiti do větších podniků stále pod pláštíkem náboženství, dopustil se zbožné krutosti tím, že ze svého království vyhnal a vypudil španělské židy: nenašel by se příklad podivnější a vzácnější. Pod stejnou záminkou napadl Afriku, podnikl výpravu do Itálie a konečně udeřil na Francii. A tak osnoval stále veliké věci, jimiž ustavičně napínal pozornost a úžas poddaných a jejich zájem o jejich výsledek. A jeden ten čin se rodil z druhého tak, že lidé nikdy neměli volnou chvilku na to, aby si oddechli a mohli podniknouti něco proti němu.

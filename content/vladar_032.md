@@ -1,7 +1,6 @@
 ---
-title: |-
-  ČTYŘIADVACÁTÁ KAPITOLA
-  Proč ztratili italští panovníci vládu
+title: ČTYŘIADVACÁTÁ KAPITOLA Proč ztratili italští panovníci vládu
+contentType: prose
 ---
 
 Nový panovník, který obezřele zachovává věci svrchu psané, bude vypadati jako panovník dědičný a bude ihned seděti na trůně bezpečněji a pevněji, než kdyby na něm jeho rod byl seděl odedávna. Neboť skutky panovníka nového jsou hlídány mnohem pozorněji než činy panovníka dědičného. A když národ vidí, že jsou to skutky dokonalé, panovník jimi získá na svou stranu a zaváže si mnohem více lidí, než kdyby byl ze starého rodu, neboť přítomné věci budí v lidech dojem mnohem silnější než minulé. A když jim přítomné věci prospívají, jsou šťastni a nehledají nic jiného; naopak, ještě svého panovníka ze všech sil obhajují, jestliže se ani v ostatních věcech neprohřešuje proti svým povinnostem. Tak zdvojnásobí vladař svou slávu, protože založí novou vládu a ozdobí a upevní ji dobrými zákony, dobrými vojsky, dobrými spojenci a dobrými příklady; stejně jako zdvojnásobí svou hanbu ten, kdo svou vládu zdědil a potom vlastní nemoudrostí ztratil.

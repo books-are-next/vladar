@@ -1,7 +1,8 @@
 ---
-title: |-
-  PATNÁCTÁ KAPITOLA
-  O věcech, pro něž jsou lidé a hlavně vladaři chváleni nebo káráni
+title: >-
+  PATNÁCTÁ KAPITOLA O věcech, pro něž jsou lidé a hlavně vladaři chváleni nebo
+  káráni
+contentType: prose
 ---
 
 Teď zbývá ještě podívati se, jak se má vladař chovati k poddaným a k spojencům. A protože vím, že o této otázce psali již mnozí, obávám se, že budu-li o tom psáti také já, budu považován za domýšlivého, protože se při zkoumání tohoto námětu silně odchyluji od postupu jiných autorů. Mým úmyslem totiž je psáti užitečně pro chápavé lidi, a proto je podle mého názoru lepší hledati skutečnou pravdu daného námětu než pouhý jeho přelud. Mnozí si v bujné obraznosti vymýšleli republiky a monarchie, jaké ve skutečnosti nikdo nikdy neviděl a nepoznal. Neboť mezi tím, jak se žije a jak by se žíti mělo, je takový rozdíl, že ten, kdo nedbá skutečného života a přemýšlí jenom o tom, jak by život vypadati měl, učí se spíše své záhubě než svému zachování: člověk totiž, který chce ve všem všudy býti dobrý, musí zahynouti v prostředí, kde tak mnozí nejsou dobří. Z toho vyplývá, že vladař, který si chce vládu udržeti, musí uměti nebýti dobrým, aby dovedl chovati se podle potřeby buď laskavě, nebo nic.

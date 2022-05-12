@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Vladař
@@ -12,7 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - vladar_002.html
+  - promo.html
   - vladar_005.html
   - vladar_006.html
   - vladar_007.html

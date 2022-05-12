@@ -1,7 +1,6 @@
 ---
-title: |-
-  TŘIADVACÁTÁ KAPITOLA
-  Jak je třeba chrániti se pochlebníků
+title: TŘIADVACÁTÁ KAPITOLA Jak je třeba chrániti se pochlebníků
+contentType: prose
 ---
 
 Nechci pominouti mlčením důležitou otázku a chybu, jíž se panovníci jen s obtíží uchrání, nejsou-li velmi prozíraví a nedovedou-li si dobře vybírati. Je to otázka pochlebníků. Jsou jich plné dvory, neboť lidé si v ješitnosti libují tak velice a mýlí se v názoru na sebe tak silně, že se mohou jenom stěží ubrániti tomuto moru. A když se mu chtějí ubrániti, jsou v nebezpečí, že lidé jimi budou opovrhovati. Neboť pochlebenství se brániti nelze jinak než tím, že lidem naznačíš, že tě neurážejí, když ti říkají pravdu. Ale může-li ti každý říkati pravdu, chybí ti úcta. Musí se proto prozíravý vladař přidržeti střední cesty, totiž vybrati si ve státě moudré muže. A jenom těm má dáti právo říkati mu pravdu, a i to jenom o těch věcech, na něž se zeptá, a o jiných ne. Musí však ptáti se jich na všechno, vyslechnouti jejich mínění a potom sám rozhodovati podle vlastního úsudku; a ke každé té radě a ke každému z nich se musí chovati tak, aby každý viděl, že je panovníkovi tím milejší, čím upřímněji mluví. Jiného však než tyto vybrané nesmí chtíti slyšet nikoho, za tím, co rozhodl, musí jíti a ve svých rozhodnutích musí býti houževnatý. Každý, kdo si počíná jinak, buď padne zásluhou pochlebníků, nebo se často mění podle různosti pochlebenství, a z toho pak vzniká malá úcta k němu.

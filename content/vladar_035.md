@@ -1,5 +1,6 @@
 ---
 title: Poznámky pod čarou
+contentType: prose
 ---
 
 [\[1\]](./resources/undefined) _Francesco Vettori_ (1474-1539), důvěrný přítel Machiavelliův (byli spolu r. 1507 s poselstvím u císaře Maxmiliána); vyslanec republiky florentské u papeže Lva X. __Pozn. překl___._
