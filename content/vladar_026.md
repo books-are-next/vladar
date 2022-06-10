@@ -3,6 +3,8 @@ title: OSMNÁCTÁ KAPITOLA Jak mají vladaři držeti dané slovo
 contentType: prose
 ---
 
+<section>
+
 Každý chápe, že je hodno chvály, když vladař drží dané slovo a žije v upřímnosti, nikoli v úskočnosti. Nicméně zkušenost našich časů nám ukazuje, že veliké věci vykonali panovníci, kteří málo dbali daného slova a kteří dovedli poplésti lidské mozky obmyslností, až nakonec překonali ty, kteří svou vládu založili na čestnosti.
 
 Tu je třeba věděti, že jsou dva způsoby boje: jeden cestou zákonitou, druhý cestou násilí. Způsob první je vlastní člověku a druhý zvířatům. Protože však první způsob mnohdy nestačí, nezbývá než uchýliti se k druhému. Musí tedy vladař dobře uměti počínati si jako zvíře i jako člověk. Staří autoři tomu zastřeně učili panovníky: popisují, jak Achilles a mnozí jiní dávnověcí vládcové byli dáni na výchovu kentaurovi Chironovi, aby je vychoval ve své kázni. A míti vychovatelem napolo zvíře, napolo člověka, to neznamená nic jiného, než že vladař má uměti užívati jak povahy lidské, tak přirozenosti zvířecí; a že jedna bez druhé není trvanlivá. A když tedy je panovník nucen uměti dobře se chovati jako zvíře, musí si vzíti za vzor lišku a lva. Lev se totiž nedovede ubránit nastraženým pastím a liška se nedovede ubrániti vlkům. Chce-li tedy někdo uniknouti nástrahám, musí býti liškou, a kdo chce zastrašiti vlky, musí býti lvem. Ti, kteří jsou jenom lvem, nechápou svůj prospěch.
@@ -16,3 +18,5 @@ Nemusí tedy panovník míti všechny svrchu psané vlastnosti, ale musí vypada
 Musí tedy vladař pečlivě dbáti, aby mu z úst nikdy nevyšlo nic, co by nebylo plné svrchu psaných pěti ctností, tak aby si o něm každý, kdo ho vidí a slyší, říkal, že je dokonale laskavý, čestný, upřímný, lidský a zbožný. A nic není tak potřebné, jako aby se zdálo, že má tuto poslední ctnost. Všeobecně lze říci, že lidé posuzují více očima než citem, neboť viděti je dáno každému, kdežto cítiti, co je pod povrchem, málokomu. Každý tedy vidí, jaký se zdáš, ale málokdo cítí, jaký opravdu jsi. A tito málokteří se neodvažují postaviti proti názoru mnohých, chráněných majestátem vlády. A skutky všech lidí, hlavně panovníků, proti nimž není odvolání, jsou posuzovány podle výsledků.
 
 Panovník se tedy musí snažiti, aby dosáhl vlády a aby si ji udržel: všechny jeho prostředky budou uznány čestnými a každý je bude chváliti. Neboť široké lidové vrstvy se dají nachytati na vnější zdání a na výsledek; a na světě není nic jiného než široké vrstvy, dav, v němž ti málokteří rozumní mají co mluviti jenom tenkrát, když je dav bezradný. Jistý současný panovník, jehož není radno jmenovati, nikdy nehlásá nic jiného než mír a věrnost, ačkoli je zapřisáhlým nepřítelem jak míru, tak věrnosti; a kdyby je byl zachovával, byly by ho obě ty věci nejednou připravily o slávu i o vládu.[\[15\]](./resources/undefined))
+
+</section>

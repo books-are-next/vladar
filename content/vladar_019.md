@@ -3,6 +3,8 @@ title: JEDENÁCTÁ KAPITOLA O vladařstvích církevních
 contentType: prose
 ---
 
+<section>
+
 Zbývá nám teď uvažovati ještě o vladařstvích církevních. U těch jsou všechny těžkosti předtím, než je jich nabyto, protože jsou získávána buď osobní zdatností, nebo štěstím, ale potom jsou udržována jak bez zdatnosti, tak bez štěstí. Opírají se totiž o starobylé náboženské řády; a ty jsou vesměs tak mocné a pevné, že udržují panovníky u vlády, nechť si počínají nebo žijí, jak chtějí. Takoví panovníci mají sice státy, ale nehájí jich, mají sice poddané, ale nevládnou jim. A státy, třebaže jsou nehájeny, jim nejsou sebrány, a poddaní, třebaže nejsou ovládáni, nedbají toho a ani nemohou, ani je nenapadá odpoutati se od nich. Proto tedy jenom taková vladařství jsou šťastná a bezpečná. Protože však jsou řízena vyšší moudrostí, jíž lidská mysl nedosahuje, nebudu o nich mluviti. Jsou totiž zřizována a udržována bohem, takže uvažovati o nich by mohl jenom člověk domýšlivý a opovážlivý.
 
 Nicméně, kdyby se mne někdo otázal, jak to, že církev dosáhla ve světské oblasti takové velikosti, ačkoli před Alexandrem VI. italští panovníci, a nejen mocní, nýbrž každý baron a zeman, i nejmenší, si jí ve světské oblasti vážil tak málo, kdežto teď se před ní třese i francouzský král, takže ho mohla vytlačit z Itálie a mohla zničiti Benátčany, třebaže je to věc známá, nezdá se mi zbytečné připomenouti ji.
@@ -14,3 +16,5 @@ Potom nastoupil Alexander VI. a lépe než všichni papežové, kteří kdy byli
 Potom přišel papež Julius a našel církev mocnou, neboť měla celou Romagnu, všichni římští baroni byli vyhubeni a Alexandrova odvaha zrušila jejich politické strany; a našel také otevřenou cestu k hromadění peněz, jíž před Alexandrem nikdy nebylo. Julius v těchto věcech nejen pokračoval, nýbrž ještě je rozšířil. Umínil si, že pro sebe získá Bolognu, že potře Benátčany, že z Itálie vyžene Francouze, a všechny tyto plány se mu zdařily; a to s tím větší chválou pro něho, že všechno dělal pro vzrůst církve, nikoli pro vzrůst soukromého člověka. Strany Orsinů a Colonnů také udržel v tom stavu, v němž je našel, a třebaže nejeden z jejich vůdců byl schopen buditi nepokoje, dvě věci je držely v klidu: velikost církve, protože jim naháněla strach, a za druhé to, že neměli kardinály, neboť příčinou bouří mezi nimi bývali kardinálové: nikdy nebývaly ty dvě strany klidné, kdykoli měly kardinály, protože právě kardinálové udržují v Římě i venku sporné strany a nutí šlechtu, aby je bránila; tak se pro ctižádost prelátů rodí nešváry a rozbroje mezi šlechtici.
 
 Tak se stalo, že Jeho Svatost papež Lev našel tento pontifikát velmi mocný, a je naděje, že podobně, jak oni jej učinili velikým zbraněmi, on jej učiní největším a ctihodným svou dobrotivostí a jinými svými nekonečnými ctnostmi.
+
+</section>

@@ -3,6 +3,8 @@ title: DEVATENÁCTÁ KAPITOLA Jak je třeba střežiti se opovržení a nenávis
 contentType: prose
 ---
 
+<section>
+
 A teď, když jsem již pojednal o nejdůležitějších ze svrchu psaných vlastností, o ostatních pohovořím zkrátka z toho všeobecného hlediska, že panovník, jak jsem zčásti řekl již nahoře, má se vyhýbati všemu, co by mohlo buditi nenávist a opovržení k němu. A dokud se tomu vyhýbá, dosahuje svých cílů a žádné nebezpečí mu nevzniká z jiných jeho špatností.
 
 Nenáviděným ho, jak jsem již řekl, činí, když je loupeživý a když se násilím zmocňuje majetku a žen svých poddaných; toho se má zdržovati; neboť dokud nebere širokým vrstvám majetek a ženy, lidé žijí spokojeně a vladaři zbývá jenom boj se ctižádostí několika málo jedinců, a tu zabrzdí všelijakým způsobem a snadno. Opovržení k vladaři probouzí to, když je považován za nestálého, lehkomyslného, zženštilého, zbabělého a nerozhodného; toho se panovník má střežiti jako nebezpečného úskalí a má se vynasnažovati, aby v jeho činech bylo viděti velikost, statečnost, vážnost, sílu; a v soukromých záležitostech svých poddaných se musí snažiti o rozsudky neodvolatelné a udržovati o sobě takové mínění, aby nikoho ani nenapadlo podvésti nebo napáliti ho. Vladař, který o sobě budí takové mínění, je velmi vážen a proti váženému muži se nesnadno kují pikle; a nesnadno bývá napaden, protože nepřítel ví, že je to muž znamenitý a uctívaný svým lidem.
@@ -44,3 +46,5 @@ Nebudu mluviti ani o Heliogabalovi, ani o Macrinovi, ani o Juliánovi, neboť by
 A musíte si uvědomiti, že tato sultánova říše se liší ode všech jiných vladařství, protože se podobá křesťanskému pontifikátu a ten nelze nazývati vladařstvím ani dědičným, ani novým. Neboť nestávají se dědici a panovníky synové zemřelého vladaře, nýbrž ten, koho zvolí lidé, mající to právo. A protože je to řád starý, nemůže býti nazýván vládou novou, protože při ní nejsou žádné z těch těžkostí, které bývají ve vladařství novém. Neboť třebaže vladař je nový, zřízení státu je staré a upraveno tak, že nastupuje na trůn jako vladař dědičný.
 
 Ale vracím se k našemu námětu a pravím, že každý, kdo si rozváží svrchu psanou úvahu, uvidí, že buď nenávist, nebo opovržení byly příčinou záhuby jmenovaných imperátorů; a uvědomí si také, jak to, že ačkoli část jich si počínala jedním způsobem a část způsobem opačným, jeden z nich měl konec šťastný a jiní nešťastný: to proto, že Pertinaxovi a Alexandrovi, protože to byli vladaři noví, bylo škodlivé a marné napodobovati Marca, panovníka dědičného; a podobně Caracallovi, Commodovi a Maximinovi bylo záhubné, že napodobovali Severa, protože nebyli tak dokonalí, aby mohli kráčeti v jeho stopách. Panovník, který je ve vládě nováček, nemůže tedy napodobovati činy Marcovy, ani není nutné, aby napodoboval Severa, nýbrž musí si ze Severa bráti příklad v těch věcech, které jsou nezbytné pro založení jeho státu, a z Marka v tom, co je vhodné a slavné pro uchování státu již pevného a vyrovnaného.
+
+</section>

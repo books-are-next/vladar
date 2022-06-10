@@ -5,6 +5,8 @@ title: >-
 contentType: prose
 ---
 
+<section>
+
 Někteří panovníci, aby zabezpečili svou vládu, odzbrojili poddané. Jiní udržovali podrobené země rozštěpeny v nepřátelské strany. Jiní rozněcovali nepřátelství sami proti sobě. Jiní usilovali získati si ty, kteří jim byli na počátku jejich vlády podezřelí. Někteří si vybudovali pevnosti. Jiní je zrušili a rozbořili. A třebaže o všech těchto věcech nelze říci přesný úsudek, dokud se nepřihlédne k zvláštnostem států, v nichž by bylo třeba učiniti nějaké takové rozhodnutí, přece o tom promluvím tak podrobně, jak to tento námět dovoluje.
 
 Nikdy se nestalo, že by byl své poddané odzbrojil panovník nový; naopak když je našel odzbrojené, vždycky je ozbrojil, neboť ozbrojíš-li je, takové vojsko je pak tvé a stávají se ti věrnými ti, kteří jsou ti podezřelí, a připoutáváš si ty, kteří ti byli věrní, a z poddaných se stávají oddaní stoupenci. A protože není možné ozbrojiti všechny poddané, stačí, když prokazuješ dobro těm, které ozbrojíš; před těmi ostatními jsi pak bezpečnější, neboť ozbrojení jsou ti za ten tvůj rozdílný postup zavázáni a ostatní tě omlouvají, říkajíce si, že je nutné, aby měli větší uznání ti, kteří mají větší nebezpečí a větší povinnosti.
@@ -18,3 +20,5 @@ Zvykem panovníků – aby si bezpečněji uchovali vládní moc – se stalo bu
 Nejlepší pevností je nebýti nenáviděn poddanými, neboť máš-li pevnosti, ale lid tě nenávidí, pevnosti tě nezachrání, protože obyvatelstvo, jakmile se chopí zbraní, vždycky najde dosti cizinců, ochotných pomáhati mu. Za našich časů jsme neviděli, že by pevnosti byly bývaly prospěly nějakému vladaři, leda hraběnce z Forli, když byl zabit hrabě Girolamo, její muž: pevnost jí totiž umožnila uniknouti náporu lidu, vyčkati pomoci z Milána a znovu dosáhnouti vlády; jenže okolnosti byly tenkrát takové, že žádný cizinec nemohl lidu přispěti na pomoc. Ale potom byla pevnost málo platná také hraběnce, když ji napadl Cesare Borgia a když se lid, jí nepřátelský, spojil s cizincem. Proto tedy tentokrát i po prvé by pro ni bývalo bezpečnější nebýti nenáviděna lidem než míti pevnost.
 
 Když se to tedy všechno uváží, pochválím toho, kdo staví pevnosti, i toho, kdo je nebuduje, ale pokárám každého, kdo spoléhaje na své pevnosti, málo bude dbáti toho, že lid ho nenávidí.
+
+</section>

@@ -3,6 +3,8 @@ title: Poznámky pod čarou
 contentType: prose
 ---
 
+<section>
+
 [\[1\]](./resources/undefined) _Francesco Vettori_ (1474-1539), důvěrný přítel Machiavelliův (byli spolu r. 1507 s poselstvím u císaře Maxmiliána); vyslanec republiky florentské u papeže Lva X. __Pozn. překl___._
 
 [\[2\]](./resources/undefined) _Filippo da Gasavecchia_, přítel Machiavelliův i Vettoriův. _Pozn. překl._
@@ -36,3 +38,5 @@ contentType: prose
 [\[16\]](./resources/undefined) _Bernabo_ z Milána: z rodu Visconti, známý svými podivínskými skutky, když byl členem milánské vlády. _Pozn. překl._
 
 [\[17\]](./resources/undefined) _Nevídané věci_ způsobené bohem: Machiavelli zde jistě nemíní žádné zázraky současné, nýbrž používá k podepření své výzvy obrazu biblického. _Pozn. překl._
+
+</section>
