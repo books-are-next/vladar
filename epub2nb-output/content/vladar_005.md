@@ -5,6 +5,8 @@ title: >-
 contentType: prose
 ---
 
+<section>
+
 Vážený vyslanče,
 
 milost boží ještě nikdy nepřišla pozdě. Říkám to proto, že jsem měl dojem, jako bych byl nikoli sice nadobro ztratil, přece však jako bych někde zapomněl Vaši přízeň, protože jste mi tak dlouho nepsal; a byl jsem na rozpacích, co asi je toho příčinou. Nedbal jsem žádné z příčin, které mě napadly, vyjma tu, že jste mi přestal psáti snad proto, že Vám někdo napsal, že neuchovávám Vaše listy dobře v tajnosti. Ale vím přece, že vyjma Filippa[\[2\]](./resources/undefined) a Pavla[\[3\]](./resources/undefined) je u mne nikdo neviděl. Klid mi vrátil Váš poslední list z 23. minulého měsíce, z něhož s radostí vidím, že konáte svůj úřad pravidelně a pokojně, jen tak stále pokračujte, neboť každý, kdo zanedbává svůj klid pro pohodlí jiných lidí, ztrácí vlastní pohodlí a nikdo mu to nikdy nepřizná k dobru. A protože osud chce všechno dělati sám, je třeba nechati jej, klidně přihlížeti, nedělati mu žádné těžkosti a čekati, až dovolí lidem, aby sami něco dělali. To potom budete moci namáhati se více a všímati si lépe všeho, co se děje, a já budu moci odejíti z venkova a přihlásiti se zase k práci. Zatím Vám na oplátku nemohu v tomto listě napsat nic jiného, než jak zde žiji. A uznáte-li, že by stálo za to, vyměniti můj život za Váš, rád bych to udělal.
@@ -23,11 +25,17 @@ Uvažoval jsem s Filippem o té své knížce, zdali by bylo dobře věnovat ji 
 
 Byl bych proto rád, kdybyste mi ještě napsal, co o tom soudíte, a s tím se Vám poroučím. _Sis felix_.
 
-  
+</section>
+
+<section>
 
 Dne 10. prosince 1513
 
-  
+</section>
+
+<section>
 
 _Niccolò Machiavelli_  
 ve Florencii
+
+</section>

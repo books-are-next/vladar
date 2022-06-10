@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "machiavelli-vladar-24c3ebf",
-  "revision": "24c3ebf",
+  "identifier": "machiavelli-vladar-1957bcb",
+  "revision": "1957bcb",
   "readingOrder": [
     "promo.html",
     "vladar_005.html",
@@ -46,8 +46,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:37:21 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652351841491
+    "date": "Fri Jun 10 2022 17:58:09 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883889266
   },
   "documents": [
     {
@@ -105,9 +105,9 @@
     {
       "title": "Vladař",
       "file": "vladar_007.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 6,
+      "chars": 49,
+      "ideas": 2,
       "role": "chapter",
       "order": 3,
       "prev": "vladar_006.html",
@@ -125,9 +125,9 @@
     {
       "title": "Vladař",
       "file": "vladar_008.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 346,
+      "chars": 2142,
+      "ideas": 1,
       "role": "chapter",
       "order": 4,
       "prev": "vladar_007.html",
@@ -145,9 +145,9 @@
     {
       "title": "PRVNÍ KAPITOLA Kolik je druhů vlád a jak je jich nabýváno",
       "file": "vladar_009.html",
-      "words": 11,
-      "chars": 57,
-      "ideas": 1,
+      "words": 113,
+      "chars": 684,
+      "ideas": 2,
       "role": "chapter",
       "order": 5,
       "prev": "vladar_008.html",
@@ -165,9 +165,9 @@
     {
       "title": "DRUHÁ KAPITOLA O vladařstvích dědičných",
       "file": "vladar_010.html",
-      "words": 5,
-      "chars": 39,
-      "ideas": 1,
+      "words": 198,
+      "chars": 1246,
+      "ideas": 2,
       "role": "chapter",
       "order": 6,
       "prev": "vladar_009.html",
@@ -225,9 +225,9 @@
     {
       "title": "PÁTÁ KAPITOLA Jak je třeba vládnouti obcím a státům, které předtím, než jich bylo dobyto, žily podle vlastních zákonů",
       "file": "vladar_013.html",
-      "words": 19,
-      "chars": 117,
-      "ideas": 1,
+      "words": 410,
+      "chars": 2446,
+      "ideas": 2,
       "role": "chapter",
       "order": 9,
       "prev": "vladar_012.html",
@@ -685,9 +685,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 99,
-      "chars": 675,
-      "ideas": 14,
+      "words": 43,
+      "chars": 325,
+      "ideas": 5,
       "role": "colophon",
       "order": null,
       "prev": "vladar_035.html",
@@ -705,14 +705,14 @@
   ],
   "totals": {
     "all": {
-      "words": 26529,
-      "chars": 161118,
-      "ideas": 226
+      "words": 27511,
+      "chars": 167122,
+      "ideas": 223
     },
     "chapters": {
-      "words": 26425,
-      "chars": 160407,
-      "ideas": 208
+      "words": 27463,
+      "chars": 166761,
+      "ideas": 214
     }
   }
 }

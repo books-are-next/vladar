@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-24c3ebf';
+const CACHE = 'cache-1957bcb';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./vladar_005.html","./vladar_006.html","./vladar_007.html","./vladar_008.html","./vladar_009.html","./vladar_010.html","./vladar_011.html","./vladar_012.html","./vladar_013.html","./vladar_014.html","./vladar_015.html","./vladar_016.html","./vladar_017.html","./vladar_018.html","./vladar_019.html","./vladar_020.html","./vladar_021.html","./vladar_022.html","./vladar_023.html","./vladar_024.html","./vladar_025.html","./vladar_026.html","./vladar_027.html","./vladar_028.html","./vladar_029.html","./vladar_030.html","./vladar_031.html","./vladar_032.html","./vladar_033.html","./vladar_034.html","./vladar_035.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/image003.png","./resources/obalka.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./colophon.html","./index.html","./favicon.png","./manifest.json","./promo.html","./vladar_005.html","./vladar_006.html","./vladar_007.html","./vladar_008.html","./vladar_009.html","./vladar_010.html","./vladar_011.html","./vladar_012.html","./vladar_013.html","./vladar_014.html","./vladar_015.html","./vladar_016.html","./vladar_017.html","./vladar_018.html","./vladar_019.html","./vladar_020.html","./vladar_021.html","./vladar_022.html","./vladar_023.html","./vladar_024.html","./vladar_025.html","./vladar_026.html","./vladar_027.html","./vladar_028.html","./vladar_029.html","./vladar_030.html","./vladar_031.html","./vladar_032.html","./vladar_034.html","./vladar_035.html","./vladar_033.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/image003.png","./resources/obalka.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {

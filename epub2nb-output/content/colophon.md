@@ -2,6 +2,7 @@
 title: Tiráž
 ---
 
+<section>  
 **Niccolò Machiavelli**  
 **Vladař**  
 Edice E-knihovna  
@@ -9,11 +10,8 @@ Překlad Jaroslav Zaorálek
 Redakce Jaroslava Bednářová  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
-1. vydání z 12. 5. 2022.
-
-***
-
-Znění tohoto textu vychází z díla [Vladař](https://aleph.nkp.cz/F/?func=direct&doc_number=000807293&local_base=NKC), jak bylo vydáno v Praze nakladatelstvím Orbis v roce 1940. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
+</section>  
+1. vydání z 10. 6. 2022.
 
 ***
 
