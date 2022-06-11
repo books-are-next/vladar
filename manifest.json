@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "machiavelli-vladar-1957bcb",
-  "revision": "1957bcb",
+  "identifier": "machiavelli-vladar-6d90d86",
+  "revision": "6d90d86",
   "readingOrder": [
     "promo.html",
     "vladar_005.html",
@@ -46,8 +46,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 17:58:09 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654883889266
+    "date": "Sat Jun 11 2022 12:14:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654949671045
   },
   "documents": [
     {
