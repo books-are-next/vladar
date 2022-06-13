@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "machiavelli-vladar-6d90d86",
-  "revision": "6d90d86",
+  "identifier": "machiavelli-vladar-4be1661",
+  "revision": "4be1661",
   "readingOrder": [
     "promo.html",
     "vladar_005.html",
@@ -46,8 +46,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:14:31 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949671045
+    "date": "Mon Jun 13 2022 21:59:24 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157564461
   },
   "documents": [
     {
@@ -685,9 +685,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 43,
-      "chars": 325,
-      "ideas": 5,
+      "words": 99,
+      "chars": 675,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "vladar_035.html",
@@ -705,9 +705,9 @@
   ],
   "totals": {
     "all": {
-      "words": 27511,
-      "chars": 167122,
-      "ideas": 223
+      "words": 27567,
+      "chars": 167472,
+      "ideas": 232
     },
     "chapters": {
       "words": 27463,
