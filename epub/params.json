@@ -58,7 +58,7 @@
             "filename": "vladar_003.md",
             "xhtml": "vladar_003.html",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -67,7 +67,7 @@
             "filename": "vladar_004.md",
             "xhtml": "vladar_004.html",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -388,7 +388,7 @@
             "filename": "vladar_036.md",
             "xhtml": "vladar_036.html",
             "id": 35,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": []
