@@ -46,7 +46,7 @@ readingOrder:
   - vladar_033.html
   - vladar_034.html
   - vladar_035.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
