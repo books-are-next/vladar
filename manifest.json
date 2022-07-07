@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "machiavelli-vladar-5897ae0",
-  "revision": "5897ae0",
+  "identifier": "machiavelli-vladar-3e8ba36",
+  "revision": "3e8ba36",
   "readingOrder": [
     "promo.html",
     "vladar_005.html",
@@ -43,11 +43,11 @@
     "vladar_033.html",
     "vladar_034.html",
     "vladar_035.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:32:52 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980372305
+    "date": "Thu Jul 07 2022 08:42:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183351231
   },
   "documents": [
     {
@@ -76,7 +76,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Machiavelliův list o vzniku „Vladaře“ Francescovi Vettorimu[1], florentskému vyslanci v Římě",
+          "name": "Machiavelliův list o vzniku „Vladaře“ Francescovi Vettorimu[1], florentskému vyslanci v Římě",
           "id": null,
           "children": []
         }
@@ -156,7 +156,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "PRVNÍ KAPITOLA Kolik je druhů vlád a jak je jich nabýváno",
+          "name": "PRVNÍ KAPITOLA Kolik je druhů vlád a jak je jich nabýváno",
           "id": null,
           "children": []
         }
@@ -176,7 +176,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "DRUHÁ KAPITOLA O vladařstvích dědičných",
+          "name": "DRUHÁ KAPITOLA O vladařstvích dědičných",
           "id": null,
           "children": []
         }
@@ -196,7 +196,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "TŘETÍ KAPITOLA O vladařstvích smíšených",
+          "name": "TŘETÍ KAPITOLA O vladařstvích smíšených",
           "id": null,
           "children": []
         }
@@ -216,7 +216,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ČTVRTÁ KAPITOLA Proč se Dariova říše, dobytá Alexandrem, nevzbouřila po Alexandrově smrti proti jeho nástupcům",
+          "name": "ČTVRTÁ KAPITOLA Proč se Dariova říše, dobytá Alexandrem, nevzbouřila po Alexandrově smrti proti jeho nástupcům",
           "id": null,
           "children": []
         }
@@ -236,7 +236,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "PÁTÁ KAPITOLA Jak je třeba vládnouti obcím a státům, které předtím, než jich bylo dobyto, žily podle vlastních zákonů",
+          "name": "PÁTÁ KAPITOLA Jak je třeba vládnouti obcím a státům, které předtím, než jich bylo dobyto, žily podle vlastních zákonů",
           "id": null,
           "children": []
         }
@@ -256,7 +256,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ŠESTÁ KAPITOLA O nových vladařstvích, nabytých vlastními zbraněmi a osobní zdatností",
+          "name": "ŠESTÁ KAPITOLA O nových vladařstvích, nabytých vlastními zbraněmi a osobní zdatností",
           "id": null,
           "children": []
         }
@@ -276,7 +276,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "SEDMÁ KAPITOLA O nových vladařstvích, nabytých cizí silou a štěstím",
+          "name": "SEDMÁ KAPITOLA O nových vladařstvích, nabytých cizí silou a štěstím",
           "id": null,
           "children": []
         }
@@ -296,7 +296,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "OSMÁ KAPITOLA O těch, kteří se k vládě dostali zločinností",
+          "name": "OSMÁ KAPITOLA O těch, kteří se k vládě dostali zločinností",
           "id": null,
           "children": []
         }
@@ -316,7 +316,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "DEVÁTÁ KAPITOLA O vladařství občanském",
+          "name": "DEVÁTÁ KAPITOLA O vladařství občanském",
           "id": null,
           "children": []
         }
@@ -336,7 +336,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "DESÁTÁ KAPITOLA Jak je třeba měřiti síly každého vladařství",
+          "name": "DESÁTÁ KAPITOLA Jak je třeba měřiti síly každého vladařství",
           "id": null,
           "children": []
         }
@@ -356,7 +356,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "JEDENÁCTÁ KAPITOLA O vladařstvích církevních",
+          "name": "JEDENÁCTÁ KAPITOLA O vladařstvích církevních",
           "id": null,
           "children": []
         }
@@ -376,7 +376,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "DVANÁCTÁ KAPITOLA Kolik je druhů vojska a o námezdních vojácích",
+          "name": "DVANÁCTÁ KAPITOLA Kolik je druhů vojska a o námezdních vojácích",
           "id": null,
           "children": []
         }
@@ -396,7 +396,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "TŘINÁCTÁ KAPITOLA O vojácích výpomocných, smíšených a vlastních",
+          "name": "TŘINÁCTÁ KAPITOLA O vojácích výpomocných, smíšených a vlastních",
           "id": null,
           "children": []
         }
@@ -416,7 +416,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ČTRNÁCTÁ KAPITOLA Jaké jsou vladařovy povinnosti, co se týká vojska",
+          "name": "ČTRNÁCTÁ KAPITOLA Jaké jsou vladařovy povinnosti, co se týká vojska",
           "id": null,
           "children": []
         }
@@ -436,7 +436,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "PATNÁCTÁ KAPITOLA O věcech, pro něž jsou lidé a hlavně vladaři chváleni nebo káráni",
+          "name": "PATNÁCTÁ KAPITOLA O věcech, pro něž jsou lidé a hlavně vladaři chváleni nebo káráni",
           "id": null,
           "children": []
         }
@@ -456,7 +456,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ŠESTNÁCTÁ KAPITOLA O štědrosti a šetrnosti",
+          "name": "ŠESTNÁCTÁ KAPITOLA O štědrosti a šetrnosti",
           "id": null,
           "children": []
         }
@@ -476,7 +476,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "SEDMNÁCTÁ KAPITOLA O krutosti a vlídnosti, a zdali je lepší býti milován než obáván, nebo naopak",
+          "name": "SEDMNÁCTÁ KAPITOLA O krutosti a vlídnosti, a zdali je lepší býti milován než obáván, nebo naopak",
           "id": null,
           "children": []
         }
@@ -516,7 +516,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "DEVATENÁCTÁ KAPITOLA Jak je třeba střežiti se opovržení a nenávisti",
+          "name": "DEVATENÁCTÁ KAPITOLA Jak je třeba střežiti se opovržení a nenávisti",
           "id": null,
           "children": []
         }
@@ -536,7 +536,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "DVACÁTÁ KAPITOLA Zdali pevnosti a mnohé jiné věci, jež vladaři často činí, jsou užitečné, nebo škodlivé",
+          "name": "DVACÁTÁ KAPITOLA Zdali pevnosti a mnohé jiné věci, jež vladaři často činí, jsou užitečné, nebo škodlivé",
           "id": null,
           "children": []
         }
@@ -556,7 +556,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "JEDENADVACÁTÁ KAPITOLA Jak si má počínati vladař, aby nabyl autority",
+          "name": "JEDENADVACÁTÁ KAPITOLA Jak si má počínati vladař, aby nabyl autority",
           "id": null,
           "children": []
         }
@@ -576,7 +576,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "DVAADVACÁTÁ KAPITOLA O vladařových ministrech",
+          "name": "DVAADVACÁTÁ KAPITOLA O vladařových ministrech",
           "id": null,
           "children": []
         }
@@ -596,7 +596,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "TŘIADVACÁTÁ KAPITOLA Jak je třeba chrániti se pochlebníků",
+          "name": "TŘIADVACÁTÁ KAPITOLA Jak je třeba chrániti se pochlebníků",
           "id": null,
           "children": []
         }
@@ -636,7 +636,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "PĚTADVACÁTÁ KAPITOLA Jaký vliv má na lidské věci osud a jak je možné vzepříti se mu",
+          "name": "PĚTADVACÁTÁ KAPITOLA Jaký vliv má na lidské věci osud a jak je možné vzepříti se mu",
           "id": null,
           "children": []
         }
@@ -656,7 +656,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ŠESTADVACÁTÁ KAPITOLA Výzva, aby Itálie byla vyrvána a vysvobozena z rukou barbarů",
+          "name": "ŠESTADVACÁTÁ KAPITOLA Výzva, aby Itálie byla vyrvána a vysvobozena z rukou barbarů",
           "id": null,
           "children": []
         }
@@ -671,7 +671,7 @@
       "role": "chapter",
       "order": 31,
       "prev": "vladar_034.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -684,11 +684,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 118,
-      "chars": 810,
+      "chars": 809,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "vladar_035.html",
       "next": null,
@@ -706,7 +706,7 @@
   "totals": {
     "all": {
       "words": 27586,
-      "chars": 167607,
+      "chars": 167606,
       "ideas": 233
     },
     "chapters": {
