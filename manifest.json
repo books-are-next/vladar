@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "machiavelli-vladar-3f1255d",
-  "revision": "3f1255d",
+  "identifier": "machiavelli-vladar-3792a9d",
+  "revision": "3792a9d",
   "readingOrder": [
     "promo.html",
     "vladar_005.html",
@@ -46,8 +46,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:31:54 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658413914096
+    "date": "Thu Sep 29 2022 21:38:18 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487498791
   },
   "documents": [
     {
@@ -65,9 +65,9 @@
     {
       "title": "Machiavelliův list o vzniku „Vladaře“ Francescovi Vettorimu[1], florentskému vyslanci v Římě",
       "file": "vladar_005.html",
-      "words": 1321,
-      "chars": 7545,
-      "ideas": 13,
+      "words": 1451,
+      "chars": 8450,
+      "ideas": 22,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -125,9 +125,9 @@
     {
       "title": "Vladař",
       "file": "vladar_008.html",
-      "words": 346,
-      "chars": 2142,
-      "ideas": 1,
+      "words": 358,
+      "chars": 2205,
+      "ideas": 2,
       "role": "chapter",
       "order": 4,
       "prev": "vladar_007.html",
@@ -285,9 +285,9 @@
     {
       "title": "OSMÁ KAPITOLA O těch, kteří se k vládě dostali zločinností",
       "file": "vladar_016.html",
-      "words": 1229,
-      "chars": 7630,
-      "ideas": 5,
+      "words": 1240,
+      "chars": 7696,
+      "ideas": 6,
       "role": "chapter",
       "order": 12,
       "prev": "vladar_015.html",
@@ -305,9 +305,9 @@
     {
       "title": "DEVÁTÁ KAPITOLA O vladařství občanském",
       "file": "vladar_017.html",
-      "words": 1055,
-      "chars": 6278,
-      "ideas": 7,
+      "words": 1082,
+      "chars": 6451,
+      "ideas": 8,
       "role": "chapter",
       "order": 13,
       "prev": "vladar_016.html",
@@ -385,9 +385,9 @@
     {
       "title": "TŘINÁCTÁ KAPITOLA O vojácích výpomocných, smíšených a vlastních",
       "file": "vladar_021.html",
-      "words": 1041,
-      "chars": 6489,
-      "ideas": 8,
+      "words": 1048,
+      "chars": 6542,
+      "ideas": 9,
       "role": "chapter",
       "order": 17,
       "prev": "vladar_020.html",
@@ -485,9 +485,9 @@
     {
       "title": "OSMNÁCTÁ KAPITOLA Jak mají vladaři držeti dané slovo",
       "file": "vladar_026.html",
-      "words": 814,
-      "chars": 4879,
-      "ideas": 8,
+      "words": 853,
+      "chars": 5133,
+      "ideas": 9,
       "role": "chapter",
       "order": 22,
       "prev": "vladar_025.html",
@@ -545,9 +545,9 @@
     {
       "title": "JEDENADVACÁTÁ KAPITOLA Jak si má počínati vladař, aby nabyl autority",
       "file": "vladar_029.html",
-      "words": 1049,
-      "chars": 6408,
-      "ideas": 7,
+      "words": 1067,
+      "chars": 6520,
+      "ideas": 8,
       "role": "chapter",
       "order": 25,
       "prev": "vladar_028.html",
@@ -645,9 +645,9 @@
     {
       "title": "ŠESTADVACÁTÁ KAPITOLA Výzva, aby Itálie byla vyrvána a vysvobozena z rukou barbarů",
       "file": "vladar_034.html",
-      "words": 1148,
-      "chars": 6867,
-      "ideas": 13,
+      "words": 1170,
+      "chars": 7018,
+      "ideas": 14,
       "role": "chapter",
       "order": 30,
       "prev": "vladar_033.html",
@@ -665,9 +665,9 @@
     {
       "title": "Poznámky pod čarou",
       "file": "vladar_035.html",
-      "words": 294,
-      "chars": 2038,
-      "ideas": 18,
+      "words": 585,
+      "chars": 3999,
+      "ideas": 35,
       "role": "chapter",
       "order": 31,
       "prev": "vladar_034.html",
@@ -685,9 +685,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 118,
-      "chars": 810,
-      "ideas": 15,
+      "words": 109,
+      "chars": 767,
+      "ideas": 14,
       "role": "about",
       "order": null,
       "prev": "vladar_035.html",
@@ -705,14 +705,14 @@
   ],
   "totals": {
     "all": {
-      "words": 27586,
-      "chars": 167607,
-      "ideas": 233
+      "words": 28134,
+      "chars": 171302,
+      "ideas": 265
     },
     "chapters": {
-      "words": 27463,
-      "chars": 166761,
-      "ideas": 214
+      "words": 28020,
+      "chars": 170499,
+      "ideas": 247
     }
   }
 }
