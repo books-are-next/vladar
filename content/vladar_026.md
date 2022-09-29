@@ -17,6 +17,40 @@ Nemusí tedy panovník míti všechny svrchu psané vlastnosti, ale musí vypada
 
 Musí tedy vladař pečlivě dbáti, aby mu z úst nikdy nevyšlo nic, co by nebylo plné svrchu psaných pěti ctností, tak aby si o něm každý, kdo ho vidí a slyší, říkal, že je dokonale laskavý, čestný, upřímný, lidský a zbožný. A nic není tak potřebné, jako aby se zdálo, že má tuto poslední ctnost. Všeobecně lze říci, že lidé posuzují více očima než citem, neboť viděti je dáno každému, kdežto cítiti, co je pod povrchem, málokomu. Každý tedy vidí, jaký se zdáš, ale málokdo cítí, jaký opravdu jsi. A tito málokteří se neodvažují postaviti proti názoru mnohých, chráněných majestátem vlády. A skutky všech lidí, hlavně panovníků, proti nimž není odvolání, jsou posuzovány podle výsledků.
 
-Panovník se tedy musí snažiti, aby dosáhl vlády a aby si ji udržel: všechny jeho prostředky budou uznány čestnými a každý je bude chváliti. Neboť široké lidové vrstvy se dají nachytati na vnější zdání a na výsledek; a na světě není nic jiného než široké vrstvy, dav, v němž ti málokteří rozumní mají co mluviti jenom tenkrát, když je dav bezradný. Jistý současný panovník, jehož není radno jmenovati, nikdy nehlásá nic jiného než mír a věrnost, ačkoli je zapřisáhlým nepřítelem jak míru, tak věrnosti; a kdyby je byl zachovával, byly by ho obě ty věci nejednou připravily o slávu i o vládu.[\[15\]](./resources/undefined))
+Panovník se tedy musí snažiti, aby dosáhl vlády a aby si ji udržel: všechny jeho prostředky budou uznány čestnými a každý je bude chváliti. Neboť široké lidové vrstvy se dají nachytati na vnější zdání a na výsledek; a na světě není nic jiného než široké vrstvy, dav, v němž ti málokteří rozumní mají co mluviti jenom tenkrát, když je dav bezradný. Jistý současný panovník, jehož není radno jmenovati, nikdy nehlásá nic jiného než mír a věrnost, ačkoli je zapřisáhlým nepřítelem jak míru, tak věrnosti; a kdyby je byl zachovával, byly by ho obě ty věci nejednou připravily o slávu i o vládu.[^15])
 
 </section>
+
+[^1]: _Francesco Vettori_ (1474-1539), důvěrný přítel Machiavelliův (byli spolu r. 1507 s poselstvím u císaře Maxmiliána); vyslanec republiky florentské u papeže Lva X. __Pozn. překl___._
+
+[^2]: _Filippo da Gasavecchia_, přítel Machiavelliův i Vettoriův. _Pozn. překl._
+
+[^3]: _Pavel_ (Pagolo) _Vettori__,_ bratr Francesca Vettoriho. _Pozn. překl._
+
+[^4]: _Plautův Geta_, postava z Plautovy komedie. _Pozn. překl._
+
+[^5]: Frosino z Panzana, Antonio Guicciardini, Batisto Guicciardini, Filippo Ginori, Tommaso del Bene – Maciavelliovi sousedé a známí. _Pozn. překl._
+
+[^6]: _Frosino z Panzana__,_ _Antonio Guicciardini__,_ _Batista Guicciardini__,_ _Filippo Ginori__,_ _Tommaso del Bene__,_ Machiavelliovi sousedé a známí. _Pozn. překl._
+
+[^7]: (Kdysi) výrobce a podomní obchodník s vápnem. _Pozn. red._
+
+[^8]: Pozdější název _Il Principe – Vladař_. _Pozn. překl._
+
+[^9]: _Giuliano de’ Medici_ (1479–1516) zatím zemřel, takže Machiavelli věnoval pak _Vladaře_ Lorenzovi de’ Medici. _Pozn. překl._
+
+[^10]: _Ardinghelli Piero_, florentský prelát, byl tenkrát sekretářem papeže Lva X. Měl pověst intrikána a Machiavelli se obával, aby se Ardinghelli nevydával za autora _Vladaře_. _Pozn. překl._
+
+[^11]: Brokát se zlatými vlákny nebo oděv z něho zhotovený. _Pozn. red._
+
+[^12]: Nejvyšší státní nebo soudní úředník ve starověkém Římě. _Pozn. red._
+
+[^13]: _Giorgio Scali__,_ bohatý Florenťan, člen vlády, ale tak zpupný, že proti sobě popudil své spoluobčany, „ačkoli ho nedávno předtím zbožňovali“, a byl 1382 sťat. _Pozn. překl._
+
+[^14]: _Konstantinopolský císař:_ Jan Cantacuzen. _Pozn. překl._
+
+[^15]: Narážka na aragonského krále Ferdinanda V. Katolického (1452–1516), o němž i Guicciardini, který býval vyslancem u jeho dvora, napsal: „Má pověst vladaře, který často neplní daný slib. Myslím, že se dovede přetvařovat lépe než kdokoli jiný.“ _Pozn. překl._
+
+[^16]: _Bernabo_ z Milána: z rodu Visconti, známý svými podivínskými skutky, když byl členem milánské vlády. _Pozn. překl._
+
+[^17]: _Nevídané věci_ způsobené bohem: Machiavelli zde jistě nemíní žádné zázraky současné, nýbrž používá k podepření své výzvy obrazu biblického. _Pozn. překl._
