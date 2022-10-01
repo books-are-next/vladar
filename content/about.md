@@ -26,7 +26,7 @@ Mariánské nám. 1, 115 72 Praha 1
 [^15]: Narážka na aragonského krále Ferdinanda V. Katolického (1452–1516), o němž i Guicciardini, který býval vyslancem u jeho dvora, napsal: „Má pověst vladaře, který často neplní daný slib. Myslím, že se dovede přetvařovat lépe než kdokoli jiný.“ _Pozn. překl._  
 [^16]: _Bernabo_ z Milána: z rodu Visconti, známý svými podivínskými skutky, když byl členem milánské vlády. _Pozn. překl._  
 [^17]: _Nevídané věci_ způsobené bohem: Machiavelli zde jistě nemíní žádné zázraky současné, nýbrž používá k podepření své výzvy obrazu biblického. _Pozn. překl._  
-V MKP 2. elektronické vydání z 29. 9. 2022.
+V MKP 2. elektronické vydání z 1. 10. 2022.
 
 ***
 
