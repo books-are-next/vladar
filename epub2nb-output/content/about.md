@@ -26,7 +26,7 @@ Mariánské nám. 1, 115 72 Praha 1
 [^15]: Narážka na aragonského krále Ferdinanda V. Katolického (1452–1516), o němž i Guicciardini, který býval vyslancem u jeho dvora, napsal: „Má pověst vladaře, který často neplní daný slib. Myslím, že se dovede přetvařovat lépe než kdokoli jiný.“ _Pozn. překl._  
 [^16]: _Bernabo_ z Milána: z rodu Visconti, známý svými podivínskými skutky, když byl členem milánské vlády. _Pozn. překl._  
 [^17]: _Nevídané věci_ způsobené bohem: Machiavelli zde jistě nemíní žádné zázraky současné, nýbrž používá k podepření své výzvy obrazu biblického. _Pozn. překl._  
-V MKP 2. elektronické vydání z 1. 10. 2022.
+V MKP 2. elektronické vydání z 4. 10. 2022.
 
 ***
 
@@ -34,10 +34,10 @@ Znění tohoto textu vychází z díla [Vladař](https://aleph.nkp.cz/F/?func=di
 
 ***
 
-[![](./resources/image001.jpg)](http://creativecommons.org/publicdomain/mark/1.0/deed.cs)
+
 Text díla (Niccolò Machiavelli: Vladař), publikovaného [Městskou knihovnou v Praze](https://www.mlp.cz/cz/), není vázán autorskými právy.
 
-[![](./resources/image002.jpg)](http://creativecommons.org/licenses/by-nc-sa/3.0/cz/)
+
 Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
 
 ***
